@@ -25,7 +25,7 @@ permalink: /en/member/
 <tr>
 <td>Director, Research Institute<br/>
 <span style="font-size : 60%;">(Integrated Research Center for Advanced Manufacturing)</span></td>
-<td><a href="http://staff.aist.go.jp/n-ando" target="_blank">ANDO Noriaki</a></td>
+<td><a href="https://n-ando.github.io/" target="_blank">ANDO Noriaki</a></td>
 <td>AIST Tsukuba </td>
 </tr>
 <tr>
@@ -79,12 +79,12 @@ permalink: /en/member/
 </tr>
 <tr>
 <td>Invited Senior Researcher</td>
-<td>YOKOYAMA Toshio</td>
+<td>KATO Masahiko</td>
 <td>AIST Tsukuba </td>
 </tr>
 <tr>
 <td>Invited Senior Researcher</td>
-<td>KATO Masahiko</td>
+<td>YOKOYAMA Toshio</td>
 <td>AIST Tsukuba </td>
 </tr>
 </tbody>

@@ -27,7 +27,7 @@ permalink: /ja/member/
 <td>研究部門長<br/>
 <span style="font-size : 60%;">兼)次世代ものづくり実装研究センター</span><br/>
 <span style="font-size : 60%;">兼)豊田自動織機-産総研アドバンスト・ロジスティクス連携研究ラボ</span></td>
-<td><a href="http://staff.aist.go.jp/n-ando" target="_blank">安藤 慶昭 (ANDO Noriaki)</a></td>
+<td><a href="https://n-ando.github.io/" target="_blank">安藤 慶昭 (ANDO Noriaki)</a></td>
 <td>つくば</td>
 </tr>
 <tr>
@@ -46,14 +46,14 @@ permalink: /ja/member/
 <td>臨海/つくば</td>
 </tr>
 <tr>
-<td>総括研究主幹</td>
-<td>名取 直毅(NATORI Naotake)</td>
-<td>臨海</td>
-</tr>
-<tr>
 <td>首席研究員</td>
 <td>加藤 晋 (KATO Shin) </td>
 <td>つくば</td>
+</tr>
+<tr>
+<td>総括研究主幹</td>
+<td>名取 直毅(NATORI Naotake)</td>
+<td>臨海</td>
 </tr>
 <tr>
 <td>研究部門付き<br/><span style="font-size : 60%;">主)ウェルビーイング実装研究センター 副研究センター長</span><br/>
