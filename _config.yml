@@ -1,7 +1,7 @@
 title: AIST Intelligent Systems Research Institute
 description: 産業技術総合研究所 インテリジェントシステム研究部門
-url: https://isri-aist.github.io
-baseurl: ""
+url: https://n-ando.github.io
+baseurl: /isri.github.io
 markdown: kramdown
 plugins:
   - jekyll-seo-tag
