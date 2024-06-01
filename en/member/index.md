@@ -46,14 +46,14 @@ permalink: /en/member/
 <td>AIST Tokyo Waterfron/AIST Tsukuba </td>
 </tr>
 <tr>
-<td>Principal Research Manager</td>
-<td>NATORI Naotake</td>
-<td>AIST Tokyo Waterfron</td>
-</tr>
-<tr>
 <td>Principal Researcher</td>
 <td>KATO Shin </td>
 <td>AIST Tsukuba </td>
+</tr>
+<tr>
+<td>Principal Research Manager</td>
+<td>NATORI Naotake</td>
+<td>AIST Tokyo Waterfron</td>
 </tr>
 <tr>
 <td><span style="font-size : 60%;">(Integrated Research Center for Wellbeing)</span><br/>
@@ -79,12 +79,12 @@ permalink: /en/member/
 </tr>
 <tr>
 <td>Invited Senior Researcher</td>
-<td>KATO Masahiko</td>
+<td>YOKOYAMA Toshio</td>
 <td>AIST Tsukuba </td>
 </tr>
 <tr>
 <td>Invited Senior Researcher</td>
-<td>YOKOYAMA Toshio</td>
+<td>KATO Masahiko</td>
 <td>AIST Tsukuba </td>
 </tr>
 </tbody>
