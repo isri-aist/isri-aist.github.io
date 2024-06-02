@@ -34,5 +34,4 @@ permalink: /en/
         Email: M-isri-info-ml*aist.go.jp (Please convert "*" to "@".)</p>
 </div>
 <!-- Inquiry end --><br/>
-<!-- アクセスカウンタ --><i>Count from 2025/07/08</i>　 <!-- アクセスカウンタここまで -->
 </div>
