@@ -62,20 +62,59 @@ permalink: /en/organization/
 <h2>Organization Chart</h2>
       As of April 1, 2025<br/>
 <br/>
-<div class="organization-diagram"><pre class="mermaid">
-flowchart TB
-  ISRI["Intelligent Systems Research Institute"]
-  ISRI --> TIR["Task-Intelligent Robotics Research Group"]
-  ISRI --> FR["Field Robotics Research Group"]
-  ISRI --> TR["Trustworthy Robotics Research Group"]
-  ISRI --> SM["Smart Mobility Research Group"]
-  ISRI --> JRL["CNRS–AIST Joint Robotics Laboratory"]
-  ISRI --> MEL["Mitsubishi Electric–AIST Human-Centric System Design CRL"]
-  classDef institute fill:#12384c,color:#fff,stroke:#12384c,stroke-width:2px
-  classDef group fill:#e7f3f6,color:#12384c,stroke:#6bb7c6
-  class ISRI institute
-  class TIR,FR,TR,SM,JRL,MEL group
-</pre></div>
+  <div class="org-chart-title">
+    Intelligent Systems Research Institute
+  </div>
+
+  <div class="org-chart-tree">
+    <div class="org-chart-director">
+      <div class="org-chart-node">Director</div>
+    </div>
+    <div class="org-chart-branches">
+      <div class="org-chart-deputies">
+        <div class="org-chart-branch">
+          <div class="org-chart-node">Deputy Director</div>
+        </div>
+        <div class="org-chart-branch">
+          <div class="org-chart-node">Deputy Director</div>
+        </div>
+        <div class="org-chart-branch">
+          <div class="org-chart-node">Principal Researcher</div>
+        </div>
+        <div class="org-chart-branch">
+          <div class="org-chart-node">Chief Researcher</div>
+        </div>
+      </div>
+      <div class="org-chart-group-branch">
+        <section class="org-chart-group">
+          <h3>Research Groups and Joint Laboratories</h3>
+          <div class="org-chart-group-list">
+            <div class="org-chart-node">
+              Task-Intelligent Robotics Research Group
+            </div>
+            <div class="org-chart-node">
+              Field Robotics Research Group
+            </div>
+            <div class="org-chart-node">
+              Trustworthy Robotics Research Group
+            </div>
+            <div class="org-chart-node">
+              Smart Mobility Research Group
+            </div>
+            <div class="org-chart-group-spacer"></div>
+            <div class="org-chart-node">
+              CNRS-AIST Joint Robotics Laboratory
+            </div>
+            <div class="org-chart-node">
+              Mitsubishi Electric-AIST Human-Centric System Design
+              Cooperative Research Laboratory
+            </div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>
+</div>
 <p class="chart-note">Schematic overview of research groups and joint laboratories. See <a href="{{ '/en/member/' | relative_url }}">Members</a> for details.</p>
 <ul>
 <li>Intelligent Systems Resesarch Institute was established on April 1, 2025.</li>

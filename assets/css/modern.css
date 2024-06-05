@@ -59,3 +59,148 @@
 .content .organization-director figcaption span{font-size:12px;color:#637482}
 @media(max-width:600px){.content .organization-director{width:140px;max-width:42%;margin:3px 0 14px 15px}.content .organization-director figcaption strong{font-size:14px}.content .organization-director figcaption span{font-size:11px}}
 @media(max-width:360px){.content .organization-director{width:120px;max-width:44%;margin-left:12px}}
+
+/* Organization chart */
+.org-chart {
+  --org-red: #d50032;
+  --org-line: 3px;
+  --org-indent: 28px;
+  color: #111;
+  width: 100%;
+  max-width: 760px;
+  margin: 24px auto;
+  font-family: "Noto Sans JP", sans-serif;
+}
+
+.org-chart-title {
+  font-size: 21px;
+  font-weight: 700;
+  margin-bottom: 26px;
+}
+
+.org-chart-tree {
+  padding-left: 8px;
+}
+
+.org-chart-node {
+  display: inline-block;
+  background: var(--org-red);
+  color: white;
+  font-size: 17px;
+  font-weight: 700;
+  line-height: 1.5;
+  padding: 10px 18px;
+  border: 2px solid white;
+  outline: 2px solid var(--org-red);
+  outline-offset: -1px;
+}
+
+.org-chart-director {
+  position: relative;
+  z-index: 1;
+}
+
+.org-chart-branches {
+  position: relative;
+  margin-left: 17px;
+  padding-left: var(--org-indent);
+  border-left: var(--org-line) solid var(--org-red);
+  padding-top: 28px;
+}
+
+.org-chart-deputies {
+  display: flex;
+  flex-direction: column;
+  gap: 22px;
+}
+
+.org-chart-branch {
+  position: relative;
+}
+
+.org-chart-branch::before {
+  content: "";
+  position: absolute;
+  left: calc(-1 * var(--org-indent));
+  top: 50%;
+  width: var(--org-indent);
+  border-top: var(--org-line) solid var(--org-red);
+}
+
+.org-chart-group-branch {
+  position: relative;
+  margin-top: 28px;
+}
+
+.org-chart-group-branch::before {
+  content: "";
+  position: absolute;
+  left: calc(-1 * var(--org-indent));
+  top: 32px;
+  width: var(--org-indent);
+  border-top: var(--org-line) solid var(--org-red);
+}
+
+.org-chart-group {
+  border: var(--org-line) solid var(--org-red);
+  padding: 12px 22px 22px;
+  margin: 0;
+}
+
+.content .org-chart-group h3 {
+  color: var(--org-red);
+  font-size: 16px;
+  margin: 0 0 28px;
+  font-weight: 700;
+}
+
+.org-chart-group-list {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: 10px;
+}
+
+.org-chart-group-list .org-chart-node {
+  min-width: min(100%, 400px);
+}
+
+.org-chart-group-spacer {
+  height: 12px;
+}
+
+/* Responsive layout */
+@media (max-width: 600px) {
+  .org-chart-title {
+    font-size: 17px;
+  }
+
+  .org-chart {
+    --org-indent: 16px;
+  }
+
+  .org-chart-node {
+    font-size: 12px;
+    padding: 8px 10px;
+    max-width: 100%;
+    overflow-wrap: anywhere;
+  }
+
+  .org-chart-branches {
+    margin-left: 10px;
+  }
+
+  .org-chart-group {
+    padding: 10px 12px 14px;
+  }
+
+  .content .org-chart-group h3 {
+    font-size: 13px;
+    margin-bottom: 20px;
+  }
+
+  .org-chart-group-list .org-chart-node {
+    min-width: 0;
+    width: 100%;
+  }
+}

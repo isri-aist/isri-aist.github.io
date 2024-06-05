@@ -34,20 +34,45 @@ permalink: /ja/organization/
 <a id="soshikizu" name="soshikizu"></a><br/>
 <h2>組織図</h2>
 <p>2025年4月1日現在</p>
-<div class="organization-diagram"><pre class="mermaid">
-flowchart TB
-  ISRI["インテリジェントシステム研究部門"]
-  ISRI --> TIR["タスク知能ロボティクス研究グループ"]
-  ISRI --> FR["フィールドロボティクス研究グループ"]
-  ISRI --> TR["信頼ロボティクス研究グループ"]
-  ISRI --> SM["スマートモビリティ研究グループ"]
-  ISRI --> JRL["CNRS–産総研 ロボット工学連携研究室"]
-  ISRI --> MEL["三菱電機–産総研 Human-Centric システムデザイン連携研究室"]
-  classDef institute fill:#12384c,color:#fff,stroke:#12384c,stroke-width:2px
-  classDef group fill:#e7f3f6,color:#12384c,stroke:#6bb7c6
-  class ISRI institute
-  class TIR,FR,TR,SM,JRL,MEL group
-</pre></div>
+  <div class="org-chart-title">
+    インテリジェントシステム研究部門
+  </div>
+
+  <div class="org-chart-tree">
+    <div class="org-chart-director">
+      <div class="org-chart-node">研究部門長</div>
+    </div>
+    <div class="org-chart-branches">
+      <div class="org-chart-deputies">
+        <div class="org-chart-branch">
+          <div class="org-chart-node">副研究部門長</div>
+        </div>
+        <div class="org-chart-branch">
+          <div class="org-chart-node">副研究部門長</div>
+        </div>
+        <div class="org-chart-branch">
+          <div class="org-chart-node">首席研究員</div>
+        </div>
+        <div class="org-chart-branch">
+          <div class="org-chart-node">総括研究主幹</div>
+        </div>
+      </div>
+      <div class="org-chart-group-branch">
+        <section class="org-chart-group">
+          <h3>研究グループ、連携研究室</h3>
+          <div class="org-chart-group-list">
+            <div class="org-chart-node">タスク知能ロボティクス研究グループ</div>
+            <div class="org-chart-node">フィールドロボティクス研究グループ</div>
+            <div class="org-chart-node">信頼ロボティクス研究グループ</div>
+            <div class="org-chart-node">スマートモビリティ研究グループ</div>
+            <div class="org-chart-group-spacer"></div>
+            <div class="org-chart-node">CNRS-産総研ロボット工学連携研究室</div>
+            <div class="org-chart-node">三菱電機-産総研 Human-Centric システムデザイン連携研究室</div>
+          </div>
+        </section>
+      </div>
+    </div>
+  </div>
 <p class="chart-note">研究グループ・連携研究室の構成を示す概略図です。役職・所属の詳細は<a href="{{ '/ja/member/' | relative_url }}">構成メンバー</a>をご覧ください。</p>
 <br/>
 <ul>
