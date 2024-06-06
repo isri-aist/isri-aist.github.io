@@ -104,14 +104,24 @@
   position: relative;
   margin-left: 17px;
   padding-left: var(--org-indent);
-  border-left: var(--org-line) solid var(--org-red);
   padding-top: 28px;
+  border-left: none;
 }
 
 .org-chart-deputies {
   display: flex;
   flex-direction: column;
   gap: 22px;
+  position: relative;
+}
+
+.org-chart-deputies::before {
+  content: "";
+  position: absolute;
+  left: calc(-1 * var(--org-indent));
+  top: -28px;
+  bottom: -60px;
+  border-left: var(--org-line) solid var(--org-red);
 }
 
 .org-chart-branch {
@@ -186,24 +196,6 @@
     overflow-wrap: anywhere;
   }
 
-  /* 縦線は最後の接続点までで止める */
-  .org-chart-branches {
-    border-left: none;
-  }
-  
-  /* 副研究部門長などの接続点から、グループ枠までの縦線 */
-  .org-chart-branches::before {
-    content: "";
-    position: absolute;
-    left: 0;
-    top: 0;
-    bottom: auto;
-    height: calc(
-      28px + 4 * 50px + 3 * 22px + 28px + 32px
-    );
-    border-left: var(--org-line) solid var(--org-red);
-  }
-  
   /* 研究グループ枠への横線 */
   .org-chart-group-branch::before {
     content: "";
