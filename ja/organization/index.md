@@ -33,7 +33,7 @@ permalink: /ja/organization/
 <br/>
 <a id="soshikizu" name="soshikizu"></a><br/>
 <h2>組織図</h2>
-<p>2025年4月1日現在</p>
+<p>2026年10月1日現在</p>
 <div class="org-chart" aria-label="インテリジェントシステム研究部門の組織図">
   <div class="org-chart-title">
     インテリジェントシステム研究部門

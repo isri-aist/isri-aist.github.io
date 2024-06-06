@@ -60,7 +60,7 @@ permalink: /en/organization/
 <br/>
 <a id="organization chart" name="organization chart"></a><br/>
 <h2>Organization Chart</h2>
-      As of April 1, 2025<br/>
+      As of October 1, 2026<br/>
 <br/>
   <div class="org-chart-title">
     Intelligent Systems Research Institute

@@ -186,8 +186,32 @@
     overflow-wrap: anywhere;
   }
 
+  /* 縦線は最後の接続点までで止める */
   .org-chart-branches {
-    margin-left: 10px;
+    border-left: none;
+  }
+  
+  /* 副研究部門長などの接続点から、グループ枠までの縦線 */
+  .org-chart-branches::before {
+    content: "";
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: auto;
+    height: calc(
+      28px + 4 * 50px + 3 * 22px + 28px + 32px
+    );
+    border-left: var(--org-line) solid var(--org-red);
+  }
+  
+  /* 研究グループ枠への横線 */
+  .org-chart-group-branch::before {
+    content: "";
+    position: absolute;
+    left: calc(-1 * var(--org-indent));
+    top: 32px;
+    width: var(--org-indent);
+    border-top: var(--org-line) solid var(--org-red);
   }
 
   .org-chart-group {
