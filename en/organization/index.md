@@ -65,7 +65,7 @@ permalink: /en/organization/
   <div class="org-chart-title">
     Intelligent Systems Research Institute
   </div>
-
+<div class="org-chart" aria-label="インテリジェントシステム研究部門の組織図">
   <div class="org-chart-tree">
     <div class="org-chart-director">
       <div class="org-chart-node">Director</div>

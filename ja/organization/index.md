@@ -34,6 +34,7 @@ permalink: /ja/organization/
 <a id="soshikizu" name="soshikizu"></a><br/>
 <h2>組織図</h2>
 <p>2025年4月1日現在</p>
+<div class="org-chart" aria-label="インテリジェントシステム研究部門の組織図">
   <div class="org-chart-title">
     インテリジェントシステム研究部門
   </div>
@@ -73,6 +74,7 @@ permalink: /ja/organization/
       </div>
     </div>
   </div>
+</div>
 <p class="chart-note">研究グループ・連携研究室の構成を示す概略図です。役職・所属の詳細は<a href="{{ '/ja/member/' | relative_url }}">構成メンバー</a>をご覧ください。</p>
 <br/>
 <ul>
