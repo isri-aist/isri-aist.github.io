@@ -73,9 +73,6 @@ EXCLUDES=(
   --exclude='/_config.yml'
   --exclude='/CNAME'
   --exclude='/.github/'
-  --exclude='/staging-to-production.sh'
-  --exclude='/production-to-staging.sh'
-  --exclude='/sync-common.sh'
 )
 
 # Only regular tracked files (including binary assets) are copied. rsync does not
