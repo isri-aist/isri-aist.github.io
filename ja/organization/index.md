@@ -43,10 +43,21 @@ permalink: /ja/organization/
 <a id="soshikizu" name="soshikizu"></a><br/>
 <h2>組織図</h2>
 <p>2025年4月1日現在</p>
-<p align="center" style="text-align : center;"><img align="middle" alt="2025年4月1日現在組織図" border="0" src="{{ '/ja/organization/img/sosikizu20250401j.png' | relative_url }}" style="border-top-border-left-border-right-border-bottom-
-	
-	
-"/></p>
+<div class="organization-diagram"><pre class="mermaid">
+flowchart TB
+  ISRI["インテリジェントシステム研究部門"]
+  ISRI --> TIR["タスク知能ロボティクス研究グループ"]
+  ISRI --> FR["フィールドロボティクス研究グループ"]
+  ISRI --> TR["信頼ロボティクス研究グループ"]
+  ISRI --> SM["スマートモビリティ研究グループ"]
+  ISRI --> JRL["CNRS–産総研 ロボット工学連携研究室"]
+  ISRI --> MEL["三菱電機–産総研 Human-Centric システムデザイン連携研究室"]
+  classDef institute fill:#12384c,color:#fff,stroke:#12384c,stroke-width:2px
+  classDef group fill:#e7f3f6,color:#12384c,stroke:#6bb7c6
+  class ISRI institute
+  class TIR,FR,TR,SM,JRL,MEL group
+</pre></div>
+<p class="chart-note">研究グループ・連携研究室の構成を示す概略図です。役職・所属の詳細は<a href="{{ '/ja/member/' | relative_url }}">構成メンバー</a>をご覧ください。</p>
 <br/>
 <ul>
 <li>2025年4月1日付で、インテリジェントシステム研究部門が発足しました。</li>
