@@ -1,0 +1,66 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="../common/css/default_unit.css" rel="stylesheet" type="text/css" />
+<title>Contact : Intelligent Systems Research Institute, AIST</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 22.0.5.0 for Windows" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<link rel="shortcut icon" type="image/x-icon" href="../common/img/favicon.ico" />
+</head>
+<body>
+<div id="blockskip"><a href="#ContentPane">To the text</a></div>
+<a name="headBody"></a><!-- Header --><iframe src="../common/header/header_img.html" name="header" title="header" width="100%" height="188" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="center"></iframe> <!-- Header end -->
+<div id="mainBody">
+  <!-- plist area -->
+  <p class="breadcrumbs"><a href="http://www.aist.go.jp/">HOME</a><span>&#160;&gt;&#160;</span><a href="http://www.aist.go.jp/aist_e/about_aist/organization/index.html">Organization</a><span>&#160;&gt;&#160;</span><a href="../../index_en.html">Intelligent Systems Research Institute</a><span>&#160;&gt;&#160;</span>Contact</p>
+  <!-- plist area end -->
+  <div id="ContentPane">
+    <!-- page title -->
+    <h1>Contact</h1>
+    <!-- page title -->
+    <div class="mainContents">
+      <p>If you have any questions, please contact us by email.<br />
+      <br />
+      AIST Website : Contact (<a href="https://www.aist.go.jp/aist_e/contact/index.html" target="_blank">https://www.aist.go.jp/aist_e/contact/index.html</a>)<br />
+      <br />
+      <br />
+      </p>
+      <!-- Inquiry -->
+      <div class="grayLineBox">
+        <h2>Inquiry</h2>
+        <h3>Intelligent Systems Research Institute</h3>
+        <p>Address : AIST Tsukuba Central 2, 1-1-1 Umezono, Tsukuba, Ibaraki, 305-8568,
+        Japan<br />
+        Email: M-isri-info-ml*aist.go.jp (Please convert &quot;*&quot; to &quot;@&quot;.)</p>
+      </div>
+      <!-- Inquiry end --><br />
+    </div>
+  </div>
+  <!-- side menu -->
+  <div id="sideWrap">
+    <div class="sNav">
+      <ul>
+        <li><a href="../../index_en.html">Top page</a>
+        <ul>
+          <li><a href="../../index_en.html" target="_self">About us</a></li>
+          <li><a href="../groups/index.html" target="_self">Research Groups</a></li>
+          <li><a href="en/consortium/index.html">Consortium</a></li>
+          <li><a href="../member/index.html">Members</a></li>
+          <li><a href="../recruit/index.html">Job Opportunities</a></li>
+          <li><a href="../location/index.html">Location</a></li>
+          <li class="CurrentItem"><a href="index.html">Contact</a></li>
+        </ul></li>
+      </ul>
+    </div>
+    <br />
+    <div class="banner_m"></div>
+  </div>
+  <!-- side menu end -->
+</div>
+<!-- top page link -->
+<p class="pagetop"><a href="#headBody">&#9650;&#160;back to top</a></p>
+<!-- top page link end --><!-- Footer --><iframe src="../common/footer/footer.html" name="footer" title="footer" width="100%" height="60" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="center"></iframe> <!-- Footer end --></body>
+</html>

@@ -1,0 +1,300 @@
+@charset "utf-8";
+
+@import "default_unit.css";
+/* ================================
+    unit.aist用　Header&Footer styles
+   ================================ */
+
+
+/* ===========================================================
+ common
+=========================================================== */
+
+body,img {margin:0; padding:0; border:none;}
+
+/* clearfix */
+.clearfix:after {content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.clearfix {display:inline-block;}
+* html .clearfix {height:1%;}
+.clearfix {display:block;}
+/* clearfixEND */
+
+html {height:100%; font-size:13px;}
+body {height:100%; font-size:100%; min-width:1100px; font-family:'Meiryo','Verdana','ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','Osaka','ＭＳ Ｐゴシック','sans-serif'; color:#333333; line-height:1.6; background:url(../img/bn_2nd_body.gif) repeat-x #efeff0;}
+/* memo 1000-1100 */
+body.foot {height:100%; font-size:100%; min-width:1100px; font-family:'Meiryo','Verdana','ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','Osaka','ＭＳ Ｐゴシック','sans-serif'; color:#333333; line-height:1.6; background:#efeff0;}
+/* memo 1000-1100 */
+/* ===========================================================
+ Header
+=========================================================== */
+/* headBody -----------------------------------------------------------*/
+#headBody {width:1100px; margin:0 auto; padding:8px 0 10px 0; text-align:left;}
+/* memo 1000-1100 */
+/* clearfix */
+#headBody:after {content:"."; display:block; height:0; clear:both; visibility:hidden;}
+#headBody {display:inline-block;}
+* html #headBody {height:1%;}
+#headBody {display:block;}
+/* clearfixEND */
+
+/* clearfix */
+.headTopWrap:after{content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.headTopWrap{display:inline-block;}
+* html .headTopWrap{height:1%;}
+.headTopWrap{display:block;}
+/* clearfixEND */
+
+/* hLink ------------------------------------------------*/
+ul.hLink {width:775px; float:left; height:32px; list-style:none; margin:0; padding:0;}
+/* memo width 725-775 */
+ul.hLink li {float:left; background:url(../img/border_header.gif) no-repeat left; padding:0 9px 0 9px; color:#ffffff; background-color:#333333;}
+ul.hLink li a {color:#ffffff; background:url(../img/arrow_white.png) no-repeat left; padding:0 0 0 9px; text-decoration:none;}
+ul.hLink li a:hover {text-decoration:underline;}
+
+/* btnJapanese -----------------------------------------------------------*/
+p.btnJapanese {float: left; background:url(../img/border_header.gif) no-repeat left; padding:0 0 0 9px;}
+p.btnJapanese a {color:#b0b0b0; background:#333333; text-decoration: none;}
+p.btnJapanese a:hover {text-decoration:underline;}
+
+/* btnEnglish ------------------------------------------------*/
+p.btnEnglish {float:left; background:url(../img/border_header.gif) no-repeat left; padding:0 0 0 9px;}
+p.btnEnglish a {color:#b0b0b0; background:#333333; text-decoration:none;}
+p.btnEnglish a:hover {text-decoration:underline;}
+
+/* searchWrap ------------------------------------------------*/
+.searchWrap {float:right; position:relative; width:190px; height:32px; background:none;}
+.searchWrap input[type="text"] {width:164px; background:#6a6a6a; padding:5px 0 3px 5px; border:none; color:#dfdfdf; height:15px;}
+.searchWrap input[type="button"] {position:absolute; top:0; right:0; margin:0; padding:0; width:26px; height:23px; background:url(../img/btn_search.png) no-repeat #6a6a6a; border:none; text-indent: -9999em; overflow:hidden; cursor:pointer; color:#ffffff;}
+.searchWrap a,
+.searchWrap a:link,
+.searchWrap a:visited {position:absolute; top:0; right:0; width:65px; height:25px; display:block; text-indent:-9999px; overflow:hidden;}
+.searchWrap a:hover,
+.searchWrap a:active {background-position:0 -25px;}
+
+/* clearfix */
+.headWrap:after{content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.headWrap{display:inline-block;}
+* html .headWrap{height:1%;}
+.headWrap{display:block;}
+/* clearfixEND */
+
+/* 産総研トップへボタン -----------------------------------------------------------*/
+.headImgbox {position: relative; width:1100px;}
+/* memo width 1000-1100 */
+.headImgbox img {image-rendering: -webkit-optimize-contrast;}
+.btn_asitTop {position: absolute; top:10px; right:0;}
+
+/* Logo ------------------------------------------------*/
+p.Logo {margin:0; padding:0;}
+
+/* Txt Logo style ------------------------------------------------*/
+.txtlogo {margin:20px auto; padding:0; clear:both;}
+
+.aistlogo_box {margin:20px 0 0; padding:0; vertical-align:middle;}
+.unitname_box {margin:5px 0 0; padding:0;}
+
+a.unitname_lTxt {font-size:200%; text-decoration:none; color:#000;}
+
+.unitname_enTxt {font-size:125%;}
+
+/* English Unit Name Size：入りきらない場合は％の数字を変更してください */
+a.unitname_lTxt_en {font-size:175%; text-decoration:none; color:#000;}
+
+.txtlogo_l {float:left; margin:0; padding:0; display:block;}
+.txtlogo_l a,
+.txtlogo_l a:link,
+.txtlogo_l a:visited,
+.txtlogo_l a:active,
+.txtlogo_l a:hover{text-decoration:none;}
+/* clearfix */
+.txtlogo_l:after{content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.txtlogo_l{display:inline-block;}
+* html .txtlogo_l{height:1%;}
+.txtlogo_l{display:block;}
+/* clearfixEND */
+
+.txtlogo_m {float:left; margin:0; padding:0 0 0 1em; display:block;}
+.txtlogo_m a,
+.txtlogo_m a:link,
+.txtlogo_m a:visited,
+.txtlogo_m a:active,
+.txtlogo_m a:hover{text-decoration:none;display:block;}
+/* clearfix */
+.txtlogo_m:after{content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.txtlogo_m{display:inline-block;}
+* html .txtlogo_m{height:1%;}
+.txtlogo_m{display:block;}
+/* clearfixEND */
+
+.txtlogo_r {float:left; margin:0; padding:0.5em 0 0 1em; display:block;}
+.txtlogo_r a,
+.txtlogo_r a:link,
+.txtlogo_r a:visited,
+.txtlogo_r a:active,
+.txtlogo_r a:hover{text-decoration:none;}
+/* clearfix */
+.txtlogo_r:after{content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.txtlogo_r{display:inline-block;}
+* html .txtlogo_r{height:1%;}
+.txtlogo_r{display:block;}
+/* clearfixEND */
+
+.txtlogo_rtxt {font-size:120%; font-weight:bold;}
+
+
+/* globalMenu ------------------------------------------------*/
+.globalMenu {z-index:90; width:770px; height:138px; margin:0 auto; overflow:hidden; float:right; text-align:left;}
+.globalMenu ul {width:100%; margin:0; padding:0;}
+
+/* clearfix */
+.globalMenu ul:after{content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.globalMenu ul{display:inline-block;}
+* html .globalMenu ul{height:1%;}
+.globalMenu ul{display:block;}
+/* clearfixEND */
+
+.globalMenu ul li {float:left; margin:0; padding:0; list-style-type:none; border-bottom:none;}
+.globalMenu ul li a,
+.globalMenu ul li a:link,
+.globalMenu ul li a:visited,
+.globalMenu ul li a:active,
+.globalMenu ul li a:hover{display:block; height:138px; width:110px; margin:0; padding:0; line-height:60px; text-indent:-9999em; overflow:hidden; background:url(../img/bg_gnav.jpg) left top no-repeat;}
+
+.globalMenu ul li.Tab1273 a,
+.globalMenu ul li.Tab1273 a:link,
+.globalMenu ul li.Tab1273 a:visited,
+.globalMenu ul li.Tab1273 a:active,
+.globalMenu ul li.Tab1273 a:hover{background-position:0 0;}
+.globalMenu ul li.Tab1273 a:hover{background-position:0 -138px;}
+.globalMenu ul li.Tab1273 a.CurrentLinkClass,
+.globalMenu ul li.Tab1273 a.CurrentLinkClass:link,
+.globalMenu ul li.Tab1273 a.CurrentLinkClass:visited,
+.globalMenu ul li.Tab1273 a.CurrentLinkClass:active,
+.globalMenu ul li.Tab1273 a.CurrentLinkClass:hover,
+.globalMenu ul li.Tab1273 a.ParentLinkClass,
+.globalMenu ul li.Tab1273 a.ParentLinkClass:link,
+.globalMenu ul li.Tab1273 a.ParentLinkClass:visited,
+.globalMenu ul li.Tab1273 a.ParentLinkClass:active,
+.globalMenu ul li.Tab1273 a.ParentLinkClass:hover{background-position:0 -138px;}
+
+.globalMenu ul li.Tab1274 a,
+.globalMenu ul li.Tab1274 a:link,
+.globalMenu ul li.Tab1274 a:visited,
+.globalMenu ul li.Tab1274 a:active,
+.globalMenu ul li.Tab1274 a:hover{background-position:-110px 0;}
+.globalMenu ul li.Tab1274 a:hover{background-position:-110px -138px;}
+.globalMenu ul li.Tab1274 a.CurrentLinkClass:link,
+.globalMenu ul li.Tab1274 a.CurrentLinkClass:visited,
+.globalMenu ul li.Tab1274 a.CurrentLinkClass:active,
+.globalMenu ul li.Tab1274 a.CurrentLinkClass:hover,
+.globalMenu ul li.Tab1274 a.ParentLinkClass,
+.globalMenu ul li.Tab1274 a.ParentLinkClass:link,
+.globalMenu ul li.Tab1274 a.ParentLinkClass:visited,
+.globalMenu ul li.Tab1274 a.ParentLinkClass:active,
+.globalMenu ul li.Tab1274 a.ParentLinkClass:hover{background-position:-110px -138px;}
+
+.globalMenu ul li.Tab1275 a,
+.globalMenu ul li.Tab1275 a:link,
+.globalMenu ul li.Tab1275 a:visited,
+.globalMenu ul li.Tab1275 a:active,
+.globalMenu ul li.Tab1275 a:hover{background-position:-220px 0;}
+.globalMenu ul li.Tab1275 a:hover{background-position:-220px -138px;}
+.globalMenu ul li.Tab1275 a.CurrentLinkClass:link,
+.globalMenu ul li.Tab1275 a.CurrentLinkClass:visited,
+.globalMenu ul li.Tab1275 a.CurrentLinkClass:active,
+.globalMenu ul li.Tab1275 a.CurrentLinkClass:hover,
+.globalMenu ul li.Tab1275 a.ParentLinkClass,
+.globalMenu ul li.Tab1275 a.ParentLinkClass:link,
+.globalMenu ul li.Tab1275 a.ParentLinkClass:visited,
+.globalMenu ul li.Tab1275 a.ParentLinkClass:active,
+.globalMenu ul li.Tab1275 a.ParentLinkClass:hover{background-position:-220px -138px;}
+
+.globalMenu ul li.Tab1276 a,
+.globalMenu ul li.Tab1276 a:link,
+.globalMenu ul li.Tab1276 a:visited,
+.globalMenu ul li.Tab1276 a:active,
+.globalMenu ul li.Tab1276 a:hover{background-position:-330px 0;}
+.globalMenu ul li.Tab1276 a:hover{background-position:-330px -138px;}
+.globalMenu ul li.Tab1276 a.CurrentLinkClass:link,
+.globalMenu ul li.Tab1276 a.CurrentLinkClass:visited,
+.globalMenu ul li.Tab1276 a.CurrentLinkClass:active,
+.globalMenu ul li.Tab1276 a.CurrentLinkClass:hover,
+.globalMenu ul li.Tab1276 a.ParentLinkClass,
+.globalMenu ul li.Tab1276 a.ParentLinkClass:link,
+.globalMenu ul li.Tab1276 a.ParentLinkClass:visited,
+.globalMenu ul li.Tab1276 a.ParentLinkClass:active,
+.globalMenu ul li.Tab1276 a.ParentLinkClass:hover{background-position:-330px -138px;}
+
+.globalMenu ul li.Tab1277 a,
+.globalMenu ul li.Tab1277 a:link,
+.globalMenu ul li.Tab1277 a:visited,
+.globalMenu ul li.Tab1277 a:active,
+.globalMenu ul li.Tab1277 a:hover{background-position:-440px 0;}
+.globalMenu ul li.Tab1277 a:hover{background-position:-440px -138px;}
+.globalMenu ul li.Tab1277 a.CurrentLinkClass:link,
+.globalMenu ul li.Tab1277 a.CurrentLinkClass:visited,
+.globalMenu ul li.Tab1277 a.CurrentLinkClass:active,
+.globalMenu ul li.Tab1277 a.CurrentLinkClass:hover,
+.globalMenu ul li.Tab1277 a.ParentLinkClass,
+.globalMenu ul li.Tab1277 a.ParentLinkClass:link,
+.globalMenu ul li.Tab1277 a.ParentLinkClass:visited,
+.globalMenu ul li.Tab1277 a.ParentLinkClass:active,
+.globalMenu ul li.Tab1277 a.ParentLinkClass:hover{background-position:-440px -138px;}
+
+.globalMenu ul li.Tab1278 a,
+.globalMenu ul li.Tab1278 a:link,
+.globalMenu ul li.Tab1278 a:visited,
+.globalMenu ul li.Tab1278 a:active,
+.globalMenu ul li.Tab1278 a:hover{background-position:-550px 0;}
+.globalMenu ul li.Tab1278 a:hover{background-position:-550px -138px;}
+.globalMenu ul li.Tab1278 a.CurrentLinkClass:link,
+.globalMenu ul li.Tab1278 a.CurrentLinkClass:visited,
+.globalMenu ul li.Tab1278 a.CurrentLinkClass:active,
+.globalMenu ul li.Tab1278 a.CurrentLinkClass:hover,
+.globalMenu ul li.Tab1278 a.ParentLinkClass,
+.globalMenu ul li.Tab1278 a.ParentLinkClass:link,
+.globalMenu ul li.Tab1278 a.ParentLinkClass:visited,
+.globalMenu ul li.Tab1278 a.ParentLinkClass:active,
+.globalMenu ul li.Tab1278 a.ParentLinkClass:hover{background-position:-550px -138px;}
+
+.globalMenu ul li.Tab1279 a,
+.globalMenu ul li.Tab1279 a:link,
+.globalMenu ul li.Tab1279 a:visited,
+.globalMenu ul li.Tab1279 a:active,
+.globalMenu ul li.Tab1279 a:hover{background-position:-660px 0;}
+.globalMenu ul li.Tab1279 a:hover{background-position:-660px -138px;}
+.globalMenu ul li.Tab1279 a.CurrentLinkClass:link,
+.globalMenu ul li.Tab1279 a.CurrentLinkClass:visited,
+.globalMenu ul li.Tab1279 a.CurrentLinkClass:active,
+.globalMenu ul li.Tab1279 a.CurrentLinkClass:hover,
+.globalMenu ul li.Tab1279 a.ParentLinkClass,
+.globalMenu ul li.Tab1279 a.ParentLinkClass:link,
+.globalMenu ul li.Tab1279 a.ParentLinkClass:visited,
+.globalMenu ul li.Tab1279 a.ParentLinkClass:active,
+.globalMenu ul li.Tab1279 a.ParentLinkClass:hover{background-position:-660px -138px;}
+
+
+
+/* ===========================================================
+ footer
+=========================================================== */
+#footBody {background:#474747;}
+div.footWrap {width:1100px; margin:0 auto; padding:15px 0;}
+/* memo 1000-1100 */
+/* clearfix */
+.footWrap:after{content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.footWrap{display:inline-block;}
+* html .footWrap{height:1%;padding:4px 0;}
+.footWrap{display:block;}
+/* clearfixEND */
+
+/* fLink ------------------------------------------------*/
+ul.fLink {margin:0; padding:0; list-style:none;}
+ul.fLink li {font-size:85%; margin-right:25px; float:left; padding:0; color:#ffffff; background-color:#474747;}
+ul.fLink li a {color:#ffffff; text-decoration:none;}
+ul.fLink li a:hover {text-decoration:underline;}
+
+/* copyright ------------------------------------------------*/
+p.copyright {width:530px; float:right; padding:0; font-size:77%; color:#c0c0c0; background:#474747; text-align:right;}
+
+

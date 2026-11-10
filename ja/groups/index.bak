@@ -1,0 +1,389 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="../common/css/default_unit.css" rel="stylesheet" type="text/css" />
+<title>研究グループ｜産総研　インテリジェントシステム研究部門</title>
+<meta name="description" content="" />
+<meta name="keywords" content="産業技術総合研究所, 産総研, AIST, 国立研究開発法人, 研究所" />
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 23.0.1.0 for Windows" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<link rel="shortcut icon" type="image/x-icon" href="../common/img/favicon.ico" />
+</head>
+<body>
+<div id="blockskip"><a href="#ContentPane">本文へ</a></div>
+<a name="headBody"></a><!-- ヘッダーここから --><iframe src="../common/header/header_img.html" name="header" title="header" width="100%" height="188" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="center"></iframe> <!-- ヘッダーここまで -->
+<div id="mainBody">
+  <!-- パンくずリスト　上位のページを<span>&nbsp;&gt;&nbsp;</span><a href="#">〇〇</a>で追加し、〇〇のところに現在のページをテキストで追加してください。 -->
+  <p class="breadcrumbs"><a href="http://www.aist.go.jp">ホーム</a><span>&#160;&gt;&#160;</span><a href="http://www.aist.go.jp/aist_j/information/index.html">産総研について</a><span>&#160;&gt;&#160;</span><a href="http://www.aist.go.jp/aist_j/information/organization/organization_main.html">組織</a><span>&#160;&gt;&#160;</span><a href="../../index.html">インテリジェントシステム研究部門</a><span>&#160;&gt;&#160;</span>研究グループ</p>
+  <!-- パンくずリストここまで -->
+  <div id="ContentPane">
+    <!-- ページタイトル -->
+    <h1>研究グループ</h1>
+    <!-- ページタイトルここまで　-->
+    <div class="mainContents">
+      <p><font size="-1"><a href="#tirrg" target="_self">タスク知能ロボティクス</a> | <a href="#frrg" target="_self">フィールドロボティクス</a> | <a href="#twrg" target="_self">信頼ロボティクス</a> | <a href="#smrg" target="_self">スマートモビリティ</a> <br />
+      <a href="#jrl" target="_self">CNRS-産総研ロボット工学連携研究室</a> | <a href="#mahsdc" target="_self">三菱電機-産総研 Human-Centric システムデザイン連携研究室</a></font></p>
+      <a name="tirrg" id="tirrg"></a><br />
+      <div class="group_container">
+        <h2>タスク知能ロボティクス研究グループ </h2>
+        <table border="0" width="100%" cellspacing="0" cellpadding="3" bgcolor="#fff4f8">
+          <tbody>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" height="2"></th>
+              <td valign="top" align="left" height="2"></td>
+              <td valign="top" align="left" width="2"></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" width="90"><nobr>研究拠点：</nobr></th>
+              <td valign="top" align="left">臨海副都心センター &#160;| &#160;<a href="../member/index.html#tirrg" target="_self">メンバー</a></td>
+              <td valign="top" align="left" width="2">&#160;</td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">HP：</th>
+              <td valign="top" align="left"></td>
+              <td valign="top" align="left"></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" height="2"></th>
+              <td valign="top" align="left" height="2"></td>
+              <td valign="top" align="left" width="2" height="2"></td>
+            </tr>
+          </tbody>
+        </table>
+        <br />
+        <br />
+        <font class="group_subheading">ロボットによる物品操作技術</font>
+        <ul>
+          <li class="group_li">教示なしで、ロボットが未知の部品をピッキング（取り出し）</li>
+          <li class="group_li">絡み合うような複雑な部品を、AI・シミュレータでピッキング可能に</li>
+          <li class="group_li">工場での部品供給や店舗の陳列作業の自動化に応用可能</li>
+        </ul>
+        <font class="group_subheading">人の作業の認識技術</font>
+        <ul>
+          <li class="group_li">人がどんな物体を持ち、どう操作しているかを、画像やセンサグローブから判定</li>
+          <li class="group_li">熟練者の作業分析や、ロボットの行動計画に応用可能</li>
+        </ul>
+        <table cellpadding="0" width="100%">
+          <tbody>
+            <tr>
+              <td width="20">&#160;</td>
+              <td width="310" style="text-align : center;" align="center"><img src="img/am_01.png" width="298" height="167" border="0" alt="工場部品供給を想定した未知部品のピッキングの画像" /></td>
+              <td>&#160;</td>
+              <td valign="bottom" style="text-align : center;" align="center"><img src="img/am_02.png" width="317" height="169" border="0" align="bottom" alt="人の作業認識・ロボットへの転写の画像" /></td>
+              <td valign="bottom" width="20">&#160;</td>
+            </tr>
+            <tr>
+              <td style="text-align : center;" align="center" width="20">&#160;</td>
+              <td style="text-align : center;" align="center">工場部品供給を想定した未知部品のピッキング</td>
+              <td>&#160;</td>
+              <td style="text-align : center;" align="center">人の作業認識・ロボットへの転写<br />
+              </td>
+              <td style="text-align : center;" align="center" width="20">&#160;</td>
+            </tr>
+          </tbody>
+        </table>
+        <br />
+      </div>
+      <div class="group_container">
+        <a name="frrg" id="frrg"></a>
+        <h2>フィールドロボティクス研究グループ </h2>
+        <table border="0" width="100%" cellspacing="0" cellpadding="3" bgcolor="#fff4f8">
+          <tbody>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" height="2"></th>
+              <td valign="top" align="left" height="2"></td>
+              <td valign="top" align="left" width="2"></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" width="90"><nobr>研究拠点：</nobr></th>
+              <td valign="top" align="left">つくばセンター　中央事業所2群 &#160;| &#160;<a href="../member/index.html#frrg" target="_self">メンバー</a></td>
+              <td valign="top" align="left" width="2">&#160;</td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">HP：</th>
+              <td valign="top" align="left"></td>
+              <td valign="top" align="left"></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" height="2"></th>
+              <td valign="top" align="left" height="2"></td>
+              <td valign="top" align="left" width="2" height="2"></td>
+            </tr>
+          </tbody>
+        </table>
+        <br />
+        <font class="group_subheading">社会／産業インフラの維持・管理、災害対応などに向けたフィールドロボティクスに関する研究開発</font>
+        <ul>
+          <li class="group_li">コア技術である陸海空フィールドロボットによるアクセス技術を現場に適合する形で高度化します。</li>
+          <li class="group_li">作業性・運動性能向上のため、超小型油圧アクチュエータの開発・検証を行います（コア技術の創生）</li>
+          <li class="group_li">さらに、エッジAI、クラウド・AIの活用によりロボットアプリケーション、サービスの拡大を図ります。 </li>
+        </ul>
+        <font class="group_subheading">無人航空機の安全評価基準策定に向けた研究開発</font>
+        <ul>
+          <li class="group_li">機体技術基準（信頼性・安全性、危害抑制、騒音対策等）、制御技術基準（危害抑制機能の自動作動等）を開発</li>
+        </ul>
+        <table width="100%" cellpadding="0">
+          <tbody>
+            <tr>
+              <td style="text-align : center;" align="center"><img src="img/fr_01-2.png" width="485" height="467" border="0" alt="フィールドロボティクス研究チームの研究紹介画像" /></td>
+            </tr>
+            <tr>
+              <td></td>
+            </tr>
+          </tbody>
+        </table>
+        <br />
+      </div>
+      <div class="group_container">
+        <a name="twrg" id="twrg"></a>
+        <h2>信頼ロボティクス研究グループ</h2>
+        <table border="0" width="100%" cellspacing="0" cellpadding="3" bgcolor="#fff4f8">
+          <tbody>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" height="2"></th>
+              <td valign="top" align="left" height="2"></td>
+              <td valign="top" align="left" width="2"></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" width="90"><nobr>研究拠点：</nobr></th>
+              <td valign="top" align="left">つくばセンター　中央事業所2群 &#160;| &#160;<a href="../member/index.html#twrg" target="_self">メンバー</a></td>
+              <td valign="top" align="left" width="2">&#160;</td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">HP：</th>
+              <td valign="top" align="left"></td>
+              <td valign="top" align="left"></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" height="2"></th>
+              <td valign="top" align="left" height="2"></td>
+              <td valign="top" align="left" width="2" height="2"></td>
+            </tr>
+          </tbody>
+        </table>
+        <br />
+        <font class="group_subheading">サービスロボット、産業用ロボットの安全に関する研究開発、試験法開発、標準化</font>
+        <ul>
+          <li class="group_li">介護ロボットの安全･効果基準、試験法開発と標準化（AMEDロボット介護機器開発･標準化事業）</li>
+          <li class="group_li">農業用ロボット、物流ロボット、駅サービスロボットのリスクアセスメント、安全基準、認証スキームの開発、標準化</li>
+          <li class="group_li">光学式安全センサ、柔軟外装、人検知センサの評価技術、試験技術の開発、標準化</li>
+        </ul>
+        <font class="group_subheading">AIを用いたロボットの安全、信頼性に関する研究開発、標準化</font>
+        <ul>
+          <li class="group_li">ロボットの安全確保のためのAI品質、信頼性基準の開発、標準化</li>
+          <li class="group_li">AI搭載ロボットの安全性評価プラットフォームの開発、評価技術の研究開発</li>
+        </ul>
+        <table cellpadding="0" width="100%">
+          <tbody>
+            <tr>
+              <td style="text-align : center;" align="center" valign="bottom" width="50">&#160;</td>
+              <td style="text-align : center;" align="center" valign="bottom"><img src="img/ds01-3.png" width="194" height="250" border="0" alt="排泄動作支援ロボットの画像" /></td>
+              <td style="text-align : center;" align="center"><img src="img/ds02-3.png" width="271" height="240" border="0" alt="ロボット安全基準･試験法開発の画像" /></td>
+              <td style="text-align : center;" align="center" width="50">&#160;</td>
+            </tr>
+            <tr>
+              <td style="text-align : center;" align="center" width="50">&#160;</td>
+              <td style="text-align : center;" align="center">排泄動作支援ロボット</td>
+              <td style="text-align : center;" align="center">ロボット安全基準･試験法開発</td>
+              <td style="text-align : center;" align="center" width="50">&#160;</td>
+            </tr>
+            <tr>
+              <td style="text-align : center;" align="center" width="50">&#160;</td>
+              <td style="text-align : center;" align="center">&#160;</td>
+              <td style="text-align : center;" align="center">&#160;</td>
+              <td style="text-align : center;" align="center" width="50">&#160;</td>
+            </tr>
+            <tr>
+              <td style="text-align : center;" align="center" width="50">&#160;</td>
+              <td style="text-align : center;" align="center"><img src="img/ds03-2.png" width="227" height="164" border="0" alt="AI安全評価用ロボットDRC-3の画像" /></td>
+              <td style="text-align : center;" align="center"><img src="img/ds04-2.png" width="285" height="163" border="0" alt="AI安全3方針の画像" /></td>
+              <td style="text-align : center;" align="center" width="50">&#160;</td>
+            </tr>
+            <tr>
+              <td style="text-align : center;" align="center" width="50">&#160;</td>
+              <td style="text-align : center;" align="center">AI安全評価用ロボットDRC-3</td>
+              <td style="text-align : center;" align="center">AI安全3方針</td>
+              <td style="text-align : center;" align="center" width="50">&#160;</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+      <br />
+      <a name="smrg" id="smrg"></a><br />
+      <div class="group_container">
+        <h2>スマートモビリティ研究グループ</h2>
+        <table border="0" width="100%" cellspacing="0" cellpadding="3" bgcolor="#fff4f8">
+          <tbody>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" height="2"></th>
+              <td valign="top" align="left" height="2"></td>
+              <td valign="top" align="left" width="2"></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" width="90"><nobr>研究拠点：</nobr></th>
+              <td valign="top" align="left">つくばセンター　中央事業所2群 &#160;| &#160;<a href="../member/index.html#smrg" target="_self">メンバー</a></td>
+              <td valign="top" align="left" width="2">&#160;</td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">HP：</th>
+              <td valign="top" align="left"></td>
+              <td valign="top" align="left"></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" height="2"></th>
+              <td valign="top" align="left" height="2"></td>
+              <td valign="top" align="left" width="2" height="2"></td>
+            </tr>
+          </tbody>
+        </table>
+        <br />
+        <p>　スマートモビリティ研究グループでは、高齢者ら移動弱者とされる方々の日常的な近距離移動手段を確保するため、歩行者のいる空間を人と共存しながら走行する、パーソナルモビリティのスマート化技術を開発しています。安全で快適な運転サポートや自動運転を実現するソフトウェア開発のほか、センシング技術や機械学習などを用いたモビリティロボットの地図生成・自己位置認識・周辺環境認識・経路生成といった基盤的な研究も行っています。
+        <br />
+        <br />
+        </p>
+        <font class="group_subheading">SLAM/マッピング および 自己位置推定</font>
+        <ul>
+          <li class="group_li">高精度リアルタイムLiDARマッピングの新手法</li>
+          <li class="group_li">最小限の操作でマッピング精度を高める3D対話型SLAMシステム</li>
+          <li class="group_li">LiTAMIN: 共分散正則化による精度向上型ICPを用いたLiDAR SLAM</li>
+          <li class="group_li">高密度特徴点と高速最適化による新しい単眼SLAM「VITAMIN-E」 </li>
+          <li class="group_li">動的シーン対応の視線マッピング手法「4D Attention」 </li>
+          <li class="group_li">C*: 3D事前マップを活用した堅牢な単眼ビジュアルローカライゼーション</li>
+        </ul>
+        <font class="group_subheading">ナビゲーション および モビリティ</font>
+        <ul>
+          <li class="group_li">歩行空間での歩行者検出を支える新手法とデータセット</li>
+          <li class="group_li">屋外環境でのロバストな自己位置推定とナビゲーションのためのSeqSLAM++</li>
+        </ul>
+      </div>
+      <br />
+      <a name="jrl" id="jrl"></a><br />
+      <div class="group_container">
+        <h2>CNRS-産総研ロボット工学連携研究室</h2>
+        <table border="0" width="100%" cellspacing="0" cellpadding="3" bgcolor="#fff4f8">
+          <tbody>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" height="2"></th>
+              <td valign="top" align="left" height="2"></td>
+              <td valign="top" align="left" width="2"></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" width="90"><nobr>研究拠点：</nobr></th>
+              <td valign="top" align="left">つくばセンター　本部情報研究棟 &#160;| &#160;<a href="../member/index.html#jrl" target="_self">メンバー</a></td>
+              <td valign="top" align="left" width="2">&#160;</td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">HP：</th>
+              <td valign="top" align="left"><a href="https://unit.aist.go.jp/isri/isri-jrl/jp/" target="_blank">https://unit.aist.go.jp/isri/isri-jrl/jp/</a></td>
+              <td valign="top" align="left"></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" height="2"></th>
+              <td valign="top" align="left" height="2"></td>
+              <td valign="top" align="left" width="2" height="2"></td>
+            </tr>
+          </tbody>
+        </table>
+        <br />
+        <p>　CNRS-産総研ロボット工学連携研究室（JRL）は、産業技術総合研究所（産総研）とフランス国立科学研究センター（CNRS）によって設立された国際共同研究組織です。ヒューマノイドロボットをプラットフォームに、自律性向上を目指す研究を、日仏の研究者が連携して進めています。主な研究分野は、タスク・モーションプランニング、制御、知覚処理、人間・環境とのインタラクション、認知ロボティクスなどです。国際色豊かな研究環境で、EUプロジェクトなど多くの国際共同研究も行われています。本研究室は、産総研とCNRSの両機関から国際共同研究ラボ（IRL）として公式に認定されています。
+        <br />
+        <br />
+        </p>
+        <font class="group_subheading">知能化と学習に基づくロボットの行動生成と自律化</font>
+        <ul>
+          <li class="group_li">Ant'noid: ヒューマノイドロボットの省メモリ空間ナビゲーション手法 </li>
+          <li class="group_li">マルチモーダルAI基盤モデルによる実世界ロボット動作のためのロボット基盤モデル構築 </li>
+          <li class="group_li">InteractivePlanning: 人間の補助的教示によるタスク適応性向上を実現する計画手法に基づくロボット自律化 </li>
+          <li class="group_li">RLOptMCP: 接触可能性の予測と最適化に基づくヒューマノイドの全身動作生成手法の研究 </li>
+          <li class="group_li">Z: 大規模学習モデルを活用した3D学習・高次物体認識・視覚サーボによるロボット探索の高度化</li>
+        </ul>
+        <font class="group_subheading">ロボットの制御・動作生成・身体性に関する先進技術</font>
+        <ul>
+          <li class="group_li">CALL: 人間のバイオメカニクスと視覚知覚を統合した動的物体ハンドオーバーのためのロボット制御手法 </li>
+          <li class="group_li">HICAN: 産業ロボットの高精度性と協働ロボットの安全性を統合する高度制御フレームワークの開発 </li>
+          <li class="group_li">iCPH: 接触運動の継続学習・予測・生成による人型システム運動理解のための統一的枠組の構築 </li>
+          <li class="group_li">ImpAdm: 過荷重・撃力環境下におけるアドミッタンス型ロボットのための非平滑力制御戦略の構築 </li>
+          <li class="group_li">Friends: 航空機製造向けヒューマノイド型ロボットの開発に関する共同研究 </li>
+          <li class="group_li">M2SV: Eye-in-hand／Eye-to-hand統合制御を実現する球面カメラ搭載ロボットシステムの研究 </li>
+          <li class="group_li">SIGRoLe: 大規模言語モデルと命題論理に基づく意図推論による汎用共有自律フレームワークの提案</li>
+        </ul>
+      </div>
+      <br />
+      <a name="mahsdc" id="mahsdc"></a><br />
+      <div class="group_container">
+        <h2>三菱電機-産総研 Human-Centric システムデザイン連携研究室</h2>
+        <table border="0" width="100%" cellspacing="0" cellpadding="3" bgcolor="#fff4f8">
+          <tbody>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" height="2"></th>
+              <td valign="top" align="left" height="2"></td>
+              <td valign="top" align="left" width="2"></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" width="90"><nobr>研究拠点：</nobr></th>
+              <td valign="top" align="left">臨海副都心センター &#160;| &#160;<a href="../member/index.html#mahsdc" target="_self">メンバー</a></td>
+              <td valign="top" align="left" width="2">&#160;</td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">HP：</th>
+              <td valign="top" align="left"></td>
+              <td valign="top" align="left"></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" height="2"></th>
+              <td valign="top" align="left" height="2"></td>
+              <td valign="top" align="left" width="2" height="2"></td>
+            </tr>
+          </tbody>
+        </table>
+        <br />
+        <font class="group_subheading">パーソナルwell-being社会に向けた⾰新技術と産業を繋ぐCPSを融合したシステムデザインへ</font> <br />
+        <br />
+        <p class="group_p">　少子高齢化による生産年齢人口の減少の対策として、製造業を含む全ての産業分野では、従業員の仕事の質（QoW: Quality of Working）と労働生産性の向上が求められている。また、リモートワークの普及が進み、自宅やサテライトオフィスなど働く空間の快適性も注目されています。<br />
+        <br />
+        　ここで、個人のQoWに着目し、その働き方や体調に応じて実力を最大限に発揮できる環境の構築が必要であり、そのためには、物理的・地理的空間の制約を受けない就労環境制御や、個人の能力に応じた複数の業務を可能とする仕組みの構築が重要です。<br />
+        <br />
+        　本連携研究室は、三菱電機が保有するQoWを高めるための機器・制御技術や効果検証技術、産総研が保有する人間計測・評価技術や生産性向上に向けたCPS構築技術の融合により、QoWの高い快適な労働環境による生産性向上や高度な快適性を届ける統合ソリューションの実現を目指します。</p>
+        <table width="100%" cellpadding="0">
+          <tbody>
+            <tr>
+              <td style="text-align : center;" align="center"><img src="img/hcesd_01.png" width="210" height="302" border="0" alt="三菱電機-産総研 Human-Centric システムデザイン連携研究室のイメージ画像" /></td>
+            </tr>
+            <tr>
+              <td></td>
+            </tr>
+          </tbody>
+        </table>
+        <br />
+        ※関連ニュース　<a href="https://www.aist.go.jp/aist_j/news/pr20220630.html" target="_blank">「三菱電機-産総研 Human-Centricシステムデザイン連携研究室」を設立 </a><br />
+      </div>
+    </div>
+  </div>
+  <div id="sideWrap">
+    <div class="sNav">
+      <ul>
+        <li><a href="../../index.html">ISRIトップ</a>
+        <ul>
+          <li><a href="../organization/index.html">研究部門紹介</a></li>
+          <li class="CurrentItem"><a href="index.html">研究グループ</a></li>
+          <li><a href="../consortium/index.html">コンソーシアム</a></li>
+          <li><a href="../member/index.html">構成メンバー</a></li>
+          <li><a href="../results/index.html">研究成果</a></li>
+          <li><a href="../recruit/index.html">人材募集</a></li>
+          <li><a href="../location/index.html">所在地</a></li>
+          <li><a href="../ad/index.html">自動運転相談窓口</a></li>
+          <li><a href="../contact/index.html">お問合せ</a></li>
+        </ul></li>
+      </ul>
+    </div>
+    <!-- サイドエリアバナー配置場所（幅220pxまで） --><br />
+    <div class="banner_m"></div>
+    <!-- サイドエリアバナー配置場所ここまで -->
+  </div>
+  <!-- サイドエリアここまで -->
+</div>
+<!-- ページトップへ表示（削除しないでください） -->
+<p class="pagetop"><a href="#headBody">▲ ページトップへ</a></p>
+<!-- ページトップへここまで --><!-- フッターここから --><iframe src="../common/footer/footer.html" name="footer" title="footer" width="100%" height="60" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="center"></iframe> <!-- フッターここまで --></body>
+</html>

@@ -1,0 +1,88 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="en/common/css/default_unit.css" rel="stylesheet" type="text/css" />
+<title>AIST : Intelligent Systems Research Institute</title>
+<meta name="description" content="" />
+<meta name="keywords" content="" />
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 23.0.1.0 for Windows" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<link rel="shortcut icon" type="image/x-icon" href="en/common/img/favicon.ico" />
+</head>
+<body>
+<div id="blockskip"><a href="#ContentPane">To the text</a></div>
+<a name="headBody"></a><!-- Header --><iframe src="en/common/header/header_img.html" name="header" title="header" width="100%" height="188" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="center"></iframe> <!-- Header end -->
+<div id="mainBody">
+  <!-- plist area -->
+  <p class="breadcrumbs"><a href="http://www.aist.go.jp/">HOME</a><span>&#160;&gt;&#160;</span><a href="http://www.aist.go.jp/aist_e/about_aist/organization/index.html">Organization</a><span>&#160;&gt;&#160;</span>Intelligent Systems Research Institute</p>
+  <!-- plist area end -->
+  <div id="ContentPane">
+    <!-- unit image --><!-- unit_image end -->
+    <div class="mainContents">
+      <span style="color : #333333;
+	font-size : 120%;
+"><b>Solving Japan’s challenges with robotics and AI technologies</b></span> <br />
+      <p class="justify">We promote R&amp;D of “Intelligent Systems” that integrate robotics, AI,
+      advanced sensing, and dependable control. These systems autonomously recognize
+      people and environments in real-time and respond accordingly. Our focus
+      includes next-generation robotics and automation: intelligent task-performing
+      robots, teleoperated systems, humanoids, drones, personal mobility, and
+      autonomous transport services, as well as technologies that enhance their
+      safety and reliability. </p>
+      <div style="text-align: center;"><img src="en/images/isri_concept_en.jpg" border="0" style="width : 750px;height : 517px;" /></div>
+      <br />
+      <br />
+      <div class="newsListTitle">
+        <div class="newslistall"></div>
+        <h2>What's New</h2>
+      </div>
+      <div>
+        <dl class="newsListCont">
+          <dt>2026/04/01</dt>
+          <dd>&quot;<a href="en/member/index.html" target="_self">Members</a>&quot; has been updated.</dd>
+          <dt>2025/07/08</dt>
+          <dd>website open</dd>
+
+        </dl>
+      </div>
+      <br />
+      <!-- Inquiry -->
+      <div class="grayLineBox">
+        <h2>Inquiry</h2>
+        <h3>Intelligent Systems Research Institute</h3>
+        <p>Address : AIST Tsukuba Central 2, 1-1-1 Umezono, Tsukuba, Ibaraki, 305-8568,
+        Japan<br />
+        Phone: +81-29-861-6670<br />
+        Email: M-isri-info-ml*aist.go.jp (Please convert &quot;*&quot; to &quot;@&quot;.)</p>
+      </div>
+      <!-- Inquiry end --><br />
+      <!-- アクセスカウンタ --><i>Count from 2025/07/08</i>　<img src="/cgi-bin/counter.cgi?df=isri/counter_isri_top_en.dat&amp;dd=D&amp;ft=4&amp;reload=F" /> <!-- アクセスカウンタここまで -->
+    </div>
+  </div>
+  <!-- side menu -->
+  <div id="sideWrap">
+    <div class="sNav">
+      <ul>
+        <li><a href="index_en.html">Top page</a>
+        <ul>
+          <li><a href="en/organization/index.html">About us</a></li>
+          <li><a href="en/groups/index.html">Research Groups</a></li>
+          <li><a href="en/consortium/index.html">Consortium</a></li>
+          <li><a href="en/member/index.html">Members</a></li>
+          <li><a href="en/recruit/index.html">Job Opportunities</a></li>
+          <li><a href="en/location/index.html">Location</a></li>
+          <li><a href="en/contact/index.html">Contact</a></li>
+        </ul></li>
+      </ul>
+    </div>
+    <br />
+    <div class="banner_m"></div>
+    <div class="banner_m"></div>
+  </div>
+  <!-- side menu end -->
+</div>
+<!-- top page link -->
+<p class="pagetop"><a href="#headBody">&#9650;&#160;back to top</a></p>
+<!-- top page link end --><!-- Footer --><iframe src="en/common/footer/footer.html" name="footer" title="footer" width="100%" height="60" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="center"></iframe> <!-- Footer end --></body>
+</html>

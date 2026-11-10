@@ -1,0 +1,23 @@
+---
+layout: default
+title: コンソーシアムのご紹介
+lang: ja
+permalink: /ja/consortium/
+---
+
+
+ ページタイトル 
+<h1>コンソーシアムのご紹介</h1>
+ ページタイトルここまで　
+<div class="mainContents">
+<h3><a id="drone" name="drone"></a>産総研先進ドローン技術コンソーシアム</h3>
+<ul>
+<li>英語名：Advanced Drone Technology Consortium（ADTC）</li>
+<li>2024年8月発足</li>
+</ul>
+<p><img align="middle" border="0" src="{{ '/ja/common/img/allaw_m_gray.png' | relative_url }}" style="border-top-border-left-border-right-border-bottom-"/><a href="{{ '/ja/consortium/drone_consortium.html' | relative_url }}" target="_self">紹介ページ</a></p>
+<br/>
+<br/>
+<br/>
+      産総研のその他のコンソーシアムのご紹介は<a href="https://www.aist.go.jp/aist_j/business/alliance/consortium/index.html" target="_blank">こちら</a>をご覧ください。<br/>
+</div>

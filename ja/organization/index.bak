@@ -1,0 +1,130 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="../common/css/default_unit.css" rel="stylesheet" type="text/css" />
+<title>研究部門紹介｜産総研　インテリジェントシステム研究部門</title>
+<meta name="description" content="" />
+<meta name="keywords" content="産業技術総合研究所, 産総研, AIST, 国立研究開発法人, 研究所" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 22.0.5.0 for Windows" />
+<link rel="shortcut icon" type="image/x-icon" href="../common/img/favicon.ico" />
+</head>
+
+
+<body>
+<div id="blockskip"><a href="#ContentPane">本文へ</a></div>
+<a name="headBody"></a> 
+
+<!-- ヘッダーここから -->
+<iframe src="../common/header/header_img.html" name="header" title="header" width="100%" height="188" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="center"></iframe>
+<!-- ヘッダーここまで -->
+
+<div id="mainBody"> 
+  
+  <!-- パンくずリスト　上位のページを<span>&nbsp;&gt;&nbsp;</span><a href="#">〇〇</a>で追加し、〇〇のところに現在のページをテキストで追加してください。 -->
+  <p class="breadcrumbs"><a href="http://www.aist.go.jp">ホーム</a><span>&nbsp;&gt;&nbsp;</span><a href="http://www.aist.go.jp/aist_j/information/index.html">産総研について</a><span>&nbsp;&gt;&nbsp;</span><a href="http://www.aist.go.jp/aist_j/information/organization/organization_main.html">組織</a><span>&nbsp;&gt;&nbsp;</span><a href="../../index.html">インテリジェントシステム研究部門</a><span>&nbsp;&gt;&nbsp;</span>研究部門紹介</p>
+  <!-- パンくずリストここまで -->
+  
+  <div id="ContentPane"> 
+    
+    <!-- ページタイトル -->
+    <h1>研究部門紹介</h1>
+    <!-- ページタイトルここまで　--> 
+    
+    <!-- メインコンテンツ -->
+    <div class="mainContents">
+      <h2>インテリジェントシステム研究部門について</h2>
+      <br />
+      <table border="0">
+        <tbody>
+          <tr>
+            <td><img src="img/NoriakiAndo_portrait.jpg" border="0" style="width : 184px;height : 227px;" /></td>
+            <td>&#160;</td>
+            <td><img src="img/name_ando2_j.png" border="0" style="width : 284px;height : 127px;" /></td>
+          </tr>
+        </tbody>
+      </table>
+      <font size="-2" style="font-size : 67%;"><br />
+      </font>
+      <p>　私たちインテリジェントシステム研究部門は、人口減少や高齢化といった日本社会が直面する深刻な課題に対し、最先端の科学技術で立ち向かうことを使命としています。
+      <br />
+      <br />
+      　センシング技術により実空間の情報をリアルタイムで捉え、サイバー空間において高度な最適化・判断を行い、その結果を再び実空間に反映させる——私たちが推進する「サイバーフィジカルシステム（CPS）」は、社会のさまざまな営みを賢く、そして自律的に支える次世代の基盤技術です。これにより、私たちは社会の生産性と効率性を飛躍的に向上させることを目指しています。
+      <br />
+      <br />
+      　本部門では、ロボティクス、人工知能（AI）、高精度センシング、安全・信頼性の高い制御技術といったコア技術を統合し、環境と人の状態をリアルタイムで認識し、状況に応じた判断・行動を自律的に行う「インテリジェントシステム」の研究開発を推進しています。インテリジェントシステムとは、人と協調しながら柔軟かつ効率的にタスクを遂行することができる、まさに未来社会を支える知的システムです。
+      <br />
+      <br />
+      　具体的には、高度な作業を行うロボットや遠隔操作ロボット、ヒューマノイドロボット、ドローン、パーソナルモビリティ、自動運転移動サービスといった、およびその安全性向上のための技術といった、次世代ロボット・自動化技術の実現に向けた研究開発を進めています。また、これらの技術の社会実装を加速するため、臨海副都心センターCPS研究棟には、物流や小売などを模擬した現場環境を備えたテストベッドを構築し、産学官による実証・連携活動を積極的に展開しています。
+      <br />
+      <br />
+      　当部門は、つくば中央事業所２群（4チーム）および臨海副都心センター（1チーム）を拠点とし、2025年4月に設置された実装研究センター群——ウェルビーイング実装研究センター、次世代ものづくり実装研究センター、レジリエントインフラ実装研究センター——とも密接に連携しています。私たちの部門で培った基盤技術を、現実の社会課題解決へとつなげていくことで、より持続可能で活力ある未来社会の実現を目指します。
+      未来を切り拓くインテリジェントシステム研究部門に、どうぞご期待ください。</p>
+     <div style="text-align: center;"> <img src="img/isri_concept_ja.jpg" border="0" style="width : 750px;height : 518px;" /></div><br />
+      <br />
+      <a name="soshikizu" id="soshikizu"></a><br />
+      <h2>組織図</h2>
+      <p>2025年4月1日現在</p>
+      <p style="text-align : center;" align="center"><img src="img/sosikizu20250401j.png" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;
+	width : 376px;
+	height : 478px;
+" align="middle" alt="2025年4月1日現在組織図" /></p>
+      <br />
+      <ul>
+        <li>2025年4月1日付で、インテリジェントシステム研究部門が発足しました。</li>
+      </ul>
+      <br />
+      <br />
+      <h2>研究拠点</h2>
+      <ul>
+        <li>つくばセンター　（茨城県つくば市）</li>
+        <li>臨海副都心センター　（東京都江東区）</li>
+      </ul>
+      <br />
+      <br />
+     
+    </div>
+  </div>
+  
+  <!-- サイドエリア　<li><a href="#">サイドナビ</a></li>を適宜修正・増減して下さい。 -->
+  <div id="sideWrap">
+    <div class="sNav">
+      <ul>
+        <li><a href="../../index.html">ISRIトップ</a>
+        <ul>
+            <li class="CurrentItem"><a href="index.html">研究部門紹介</a></li>
+            <li><a href="../groups/index.html">研究グループ</a></li>
+            <li><a href="../consortium/index.html">コンソーシアム</a></li>
+            <li><a href="../member/index.html">構成メンバー</a></li>
+            <li><a href="../results/index.html">研究成果</a></li>
+          <li><a href="../recruit/index.html">人材募集</a></li>
+            <li><a href="../location/index.html">所在地</a></li>
+            <li><a href="../contact/index.html">お問合せ</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+    
+    <!-- サイドエリアバナー配置場所（幅220pxまで） --> 
+    
+    <br/>
+ 
+    
+    <!-- サイドエリアバナー配置場所ここまで --> 
+    
+  </div>
+  <!-- サイドエリアここまで --> 
+  
+</div>
+
+<!-- ページトップへ表示（削除しないでください） -->
+<p class="pagetop"><a href="#headBody">▲ ページトップへ</a></p>
+<!-- ページトップへここまで --> 
+
+<!-- フッターここから -->
+<iframe src="../common/footer/footer.html" name="footer" title="footer" width="100%" height="60" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="center"></iframe>
+<!-- フッターここまで -->
+
+</body>
+</html>

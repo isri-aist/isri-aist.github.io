@@ -1,0 +1,406 @@
+@charset "utf-8";
+
+/* ================================
+    unit.aist用　Default styles
+   ================================ */
+
+
+
+/* ===========================================================
+ common
+=========================================================== */
+
+body,img {margin:0; padding:0; border:none;}
+
+/* clearfix */
+.clearfix:after {content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.clearfix {display:inline-block;}
+* html .clearfix {height:1%;}
+.clearfix {display:block;}
+/* clearfixEND */
+
+html {height:100%; font-size:81%;}
+body {height:100%; font-size:100%; min-width:1000px; font-family:'Meiryo','Verdana','ヒラギノ角ゴ Pro W3','Hiragino Kaku Gothic Pro','Osaka','ＭＳ Ｐゴシック','sans-serif'; color:#333333; line-height:1.6; background:url(../img/bn_2nd_body.gif) repeat-x #efeff0;}
+
+a,
+a:link,
+a:visited,
+a:active,
+a:hover {color:#cf0010; text-decoration:underline;}
+a:hover {text-decoration:none;}
+
+img {vertical-align:top;}
+
+img.alpha:hover {opacity:0.7; filter:alpha(opacity=70);} /* For IE8 and earlier */
+
+/* blockskip -----------------------------------------------------------*/
+div#blockskip {margin:0; padding:0; overflow:visible; height:0;}
+div#blockskip a {cursor: default; font-size:1%; height:1px; line-height:0; margin:-1px 0 0; color:#333333;}
+
+
+/* ===========================================================
+ default
+=========================================================== */
+p {margin:0; padding:0 0 15px 0;}
+}
+
+ul,ol {margin:0 0 0 2em; padding:0.5em 0 1em 0;}
+li {margin:0; padding:0 0 5px 0;}
+ul li li,
+ol li li {line-height:140%; padding:5px 0; border-bottom:1px dotted #dddddd;}
+
+h1 {color:#333333; font-size:231%; font-weight:normal; line-height:110%; margin:0 0 20px; padding:10px 0 10px 5px;}
+h2 {margin:0 0 10px; padding:10px 0 10px 5px; font-size:192%; font-weight:normal; line-height:110%; background:url(../img/bg_h2.gif) repeat-x bottom;}
+h3 {margin:0 0 20px; padding:10px 0 10px 5px; font-size:154%; font-weight:normal; line-height:110%; background:url(../img/bg_h3.gif) repeat-x bottom;}
+h4 {margin:30px 0 10px 0; padding:5px 10px; font-size:100%; line-height:110%; border-bottom:1px solid #bbbbbb; border-left:7px solid #dddddd;}
+h5 {margin:20px 0 10px 0; padding:5px; font-size:100%; line-height:110%; border-bottom:1px solid #cccccc;}
+h6 {margin:20px 0 10px 0; padding:5px; font-size:100%; line-height:110%; border-bottom:1px dotted #cccccc;}
+
+h3.noBorder_h3 {margin:0 auto 10px auto; padding:0; font-size:125%!important; color:#333333; background:none; border:none;}
+h4.noBorder_h4 {margin:10px 0 10px 0; padding:0px; font-size:100%; border:none;}
+
+h1.fieldTitle{background:none!important;padding:0!important;}
+h2.fieldTitle{background:none!important;padding:0!important;}
+h3.fieldTitle{background:none!important;padding:0!important;}
+
+.listTable {margin:0 0 30px 0; border-collapse:collapse; border-spacing:0; border-right:1px solid #aaaaaa; border-bottom:1px solid #aaaaaa;}
+.listTable {border:3px solid #e2e2e2; border-collapse:separate; border-spacing:1px; width:100%;}
+.listTable th,
+.listTable td {border-bottom:1px solid #d7d7d7; border-right:1px solid #d7d7d7; border-top:none; border-left:none; padding:8px;}
+.listTable th {background:none repeat scroll 0 0 #f3f3f3; text-align:left;}
+
+table.listTable caption {text-align:left; font-size:150%; padding-left:5px;}
+
+img.imgRight {float:right; margin:0 0 15px 15px;}
+img.imgLeft {float:left; margin:0 15px 15px 0;}
+
+div.divRight {float:right; text-align:center; margin:0 0 15px 15px;}
+div.divLeft {float:left; text-align:center; margin:0 15px 15px 0;}
+
+span.floatRight {float:right; margin:0 0 15px 15px;}
+span.floatLeft {float:left; margin:0 15px 15px 0;}
+
+.alignRight {text-align:right!important;}
+.alignLeft {text-align:left!important;}
+.alignCenter {text-align:center!important;}
+
+.attentionRed{font-weight:bold;color:#cf0010;}
+
+.listIcon {margin-left:10px;border:none;}
+
+.listIcon li {background: url(../img/ico_cercle.gif) no-repeat 0 5px; padding-left:18px; list-style: none;border:none;}
+.listIcon li a{color:#333;}
+
+.listArrow li {background: url(../img/arrow_red.png) no-repeat 0 6px; padding-left:12px; list-style: none;border:none;}
+.listArrow li a{color:#333;}
+
+.listArrowHalf {width:100%;margin:0 0 0 10px;padding-bottom:0;}
+.listArrowHalf li {display:inline-block;vertical-align:top;*display: inline; *zoom: 1;}
+.listArrowHalf li {width:45%;background:url(../img/arrow_red.png) no-repeat 0 6px; padding:0 20px 12px 10px; list-style:none;border:none;}
+.listArrowHalf li a{color:#333;}
+
+.listArrowLeft{margin:0;padding-bottom:0;}
+.listArrowLeft li {display:inline-block;vertical-align:top;*display: inline; *zoom: 1;}
+.listArrowLeft li {background: url(../img/arrow_red.png) no-repeat 0 6px; margin:0 40px 0 0; padding-left:12px; list-style: none;border:none;}
+.listArrowLeft li a{color:#333;}
+
+.listArrowRight{margin:0;padding-bottom:0;text-align:right;}
+.listArrowRight li {display:inline-block;vertical-align:top;*display: inline; *zoom: 1;}
+.listArrowRight li {background: url(../img/arrow_red.png) no-repeat 0 6px; margin:0 0 0 40px; padding-left:12px; list-style: none;border:none;}
+.listArrowRight li a{color:#333;}
+
+.defaultList{margin-left: 1.0em;}
+.defaultList li{list-style:none;text-indent: -1.0em;}
+
+
+/* ===========================================================
+ content
+=========================================================== */
+#mainBody {clear:both; width:1100px; margin:0 auto; text-align:left; padding:0 0 30px;}
+/* memo width 1000-1100 */
+/* clearfix */
+#mainBody:after {content:"."; display:block; height:0; clear:both; visibility:hidden;}
+#mainBody {display:inline-block;}
+* html #mainBody {height:1%;}
+#mainBody {display:block;}
+/* clearfixEND */
+
+/* breadcrumbs ------------------------------------------------*/
+.breadcrumbs,
+.breadcrumbs span {color:#666666;}
+.breadcrumbs {width:1100px; margin:0 auto; padding:5px 0 10px 0; font-size:93%; text-align:left;}
+/* memo width 1000-1100 */
+
+.breadcrumbs a,
+.breadcrumbs a:link,
+.breadcrumbs a:visited,
+.breadcrumbs a:active,
+.breadcrumbs a:hover {color:#444444; text-decoration:none;}
+
+
+/*========================================================
+ ContentPane
+ ========================================================*/
+#ContentPane {width:850px; float:left;}
+/* memo width 750-850 */
+#ContentPane h1 {clear:both; font-size:231%; font-weight:normal; padding:15px 0 10px 10px; margin-bottom:20px; background: url(../img/bg_h1.jpg) repeat-x bottom;}
+
+#ContentPane.style1Column {width:100%;}
+
+
+/*========================================================
+ mainContents
+ ========================================================*/
+.mainContents {background:#ffffff; padding:20px;}
+
+
+/*========================================================
+ grayLineBox
+ ========================================================*/
+.grayLineBoxWap .grayLineBox {width:305px;min-height:130px;display:inline-block;vertical-align:top;*display: inline; *zoom: 1;}
+.grayLineBoxWap .grayLineBox:first-child {margin-right:25px;}
+.grayLineBox {border:5px #e6e5e5 solid;padding:12px;position:relative;}
+.grayLineBox h2 {margin:0 0 15px 0;padding:10px 0 10px 10px;font-size:139%!important;font-weight:normal;background:#f3f3f3;border-left:#dc2f3d solid 1px;border-bottom:none;}
+.grayLineBox h3 {margin:0 auto 10px auto; padding:0; font-size:125%!important; background:none; border:none;}
+.grayLineBox p {padding:0;}
+.grayLineBox .accessBtn {position:absolute;right:12px;bottom:12px;padding:0;}
+
+
+/*========================================================
+ テキストボックス
+ ========================================================*/
+ /* 高さ：150px ------------------------------------------------*/
+.txtbox150 {border:1px dotted #cccccc; padding:15px; margin:10px auto; height:150px; width:95%;}
+ /* 高さ：200px ------------------------------------------------*/
+.txtbox200 {border:1px dotted #cccccc; padding:15px; margin:10px auto; height:200px; width:95%;}
+ /* 高さ：250px ------------------------------------------------*/
+.txtbox250 {border:1px dotted #cccccc; padding:15px; margin:10px auto; height:250px; width:95%;}
+
+
+/* ===========================================================
+ side
+=========================================================== */
+#sideWrap {float:right; width:220px;}
+
+/* side banner margin ------------------------------------------------*/
+.banner_m {margin:5px auto 5px auto;}
+
+
+/*========================================================
+ sNav
+ ========================================================*/
+.sNav ul {margin:0; padding:0; list-style:none;}
+.sNav li {list-style:none; line-height:0; margin:0; padding:0; border-bottom:none;}
+.sNav > ul {border:5px solid #cccccc; background:#474747;}
+.sNav ul li a {display:block; color:#333333; text-decoration:none;}
+.sNav ul li a:hover {text-decoration:none;}
+.sNav ul li.CurrentItem > a { color:#a85057;}
+.sNav ul li.CurrentItem a {border-bottom:none; background-color:#eeeeee;}
+.sNav > ul > li {padding:0; background:#474747;}
+.sNav > ul > li > a {font-size:116%; color:#ffffff; line-height:22px; margin:10px; padding:0 0 0 10px; border-left:1px solid #a3a3a3;} 
+.sNav > ul > li > a:hover {background-color:#6e6d6d;}
+.sNav > ul > li > ul {background:#d7d7d7; padding:0; text-align:left; border-top:4px solid #d7d7d7;}
+.sNav > ul > li > ul > li > a {display:block; padding:10px 7px 10px 19px; line-height:18px; background:url(../img/bg_snav02.png) no-repeat 8px 15px #ffffff; margin:0; border-bottom:solid 1px #d7d7d7;}
+.sNav > ul > li > ul > li > a:hover {background-color:#eeeeee;}
+.sNav > ul > li > ul > li > ul {background:#d7d7d7; padding:0; text-align:left; border-bottom:1px dashed #d7d7d7;}
+.sNav > ul > li > ul > li > ul > li> a {display:block; padding:10px 7px 10px 29px; line-height:18px; background:url(../img/bg_snav03.png) no-repeat 18px 15px #ffffff; margin:0; border-bottom:solid 1px #d7d7d7;}
+.sNav > ul > li > ul > li > ul > li> a:hover {background-color:#ffffff;}
+
+
+/*========================================================
+ Whats New
+ ========================================================*/
+.newsListTitle {margin:0; padding:0;}
+.newsListTitle h2{margin:0 0 15px 0;padding:10px 0 10px 10px;font-size:139%!important;font-weight:normal;background:#f3f3f3;border-left:#dc2f3d solid 1px;border-bottom:2px #e6e5e5 solid;}
+
+
+
+/* 更新履歴　*/
+dl.newsListCont{width:98%; margin-top:-0.5em;}
+dl.newsListCont dt{clear:left; float:left; margin:0; padding:10px 0 10px 10px; width:10em; line-height:1.2em;}
+dl.newsListCont dd{margin:0; padding:10px 0 10px 12em; border-bottom:1px dotted #CCC; line-height:1.2em;}
+ dl.newsListCont a,
+dl.newsListCont a:link,
+dl.newsListCont a:visited {font-size:100%; color:#333333; text-decoration:none;}
+dl.newsListCont a:hover {text-decoration:underline;}
+dl.newsListCont a:first-child {margin-right:0;}
+
+/* clearfix */
+.newsListCont:after {content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.newsListCont {display:inline-block;}
+* html .newsListCont {height:1%;}
+.newsListConty {display:block;}
+/* clearfixEND */
+
+ /* 一覧へ ------------------------------------------------*/
+.newslistall { float:right;margin:10px 10px 10px 0;}
+.newslistall a,
+.newslistall a:link,
+.newslistall a:visited {background: url(../img/arrow_red.png) no-repeat 0 5px; font-size:93%; color:#333333; padding-left:5px; text-decoration:none;}
+
+
+/*========================================================
+ 研究部門紹介
+ ========================================================*/
+.director_photo {float:left; text-align:center; margin-right:1.2em;}
+.group_name {font-weight:bold; font-size:130%;}
+ 
+
+/*========================================================
+ 研究グループ紹介
+ ========================================================*/
+.group_leader {font-size:145%; margin-top:-0.75em;}
+.group_container {margin:2px auto; padding:10px 5px; width:98%;}
+/* width memo */
+/* clearfix */
+.group_container:after {content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.group_container {display:inline-block;}
+* html group_container {height:1%;}
+group_container {display:block;}
+/* clearfixEND */
+
+.group_subheading {
+	font-weight: bold;
+	color: #a85057;
+	margin-left: 1.2em;
+	font-size: 105%;}
+
+.group_mokuhyou{
+	margin-left: 1.5em;
+	margin-right: 1.5em;
+	margin-top: 1em;
+	font-size: 110%;
+	color: #464646;
+}
+.group_li{margin-left:1.2em;margin-right:1.5em;}
+.group_p{margin-left:1.2em;margin-right:1.5em;text-align:justify;}
+
+.group_subheading_m {
+	font-weight: bold;
+	font-size: 112%;
+	color: #464646;
+	margin-left: 1.2em;
+}
+
+.group_mokuhyou_waku{
+	border-color: #f9ecf1;
+	border-width: 2px;
+	border-style: solid;
+	margin-top: 5px;
+}
+/*========================================================
+ 研究成果
+ ========================================================*/
+.BoxHalf{margin:0;padding:0;width:728px;}
+.BoxHalf li{display:inline-block;*display: inline; *zoom: 1;vertical-align:top;}
+.BoxHalf li{list-style:none;width:344px;padding:0;margin-bottom:20px;margin-right:15px;}
+.BoxHalf li .title{font-weight:normal;font-size:124%;border-top:#dc2f3d 1px solid;background:url(../img/bg_BoxHalfTitle.gif) no-repeat bottom left;padding:8px 10px 6px 13px;}
+.BoxHalf li .title a{color:#333;background:url(../img/arrow_redBig.png) no-repeat 0 4px;padding-left:20px;}
+.BoxHalf li .text{background:url(../img/bg_BoxHalfText.gif) no-repeat bottom left;padding:10px 15px 15px 15px;vertical-align:top;min-height:60px;}
+
+/* プレスリリース */
+.pressBox {border-bottom:1px #ccc dotted; margin-bottom:1em;}
+/* clearfix */
+.pressBox:after {content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.pressBox {display:inline-block;}
+* html .pressBox {height:1%;}
+.pressBox {display:block;}
+/* clearfixEND */
+
+.press_t {margin:0; padding:0;}
+.press_t a,
+.press_t a:link,
+.press_t a:visited {color:#333; font-size:130%; text-decoration:none;}
+.press_t a:hover {text-decoration:underline;}
+.press_st {font-size:100%; color:rgb(207, 0, 16);}
+
+/* 受賞 */
+.prizeBox {border:5px #e6e5e5 solid; margin-bottom:1.2em; padding:10px;}
+/* clearfix */
+.prizeBox:after {content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.prizeBox {display:inline-block;}
+* html .prizeBox {height:1%;}
+.prizeBox {display:block;}
+/* clearfixEND */
+
+.prize_t {font-size:145%;}
+
+/* ---------------------------------------------------------
+ 研究成果見出し 2015/02/18 追記
+--------------------------------------------------------- */
+h3.bg_environment,
+h3.bg_biotechnology,
+h3.bg_ergonomics,
+h3.bg_chemistry,
+h3.bg_information,
+h3.bg_geology,
+h3.bg_metrology{margin-bottom:20px;height:46px;line-height:46px;padding:0 0 0 50px;font-size:147%; background-position:left top; background-repeat:no-repeat;}
+
+h3.bg_environment{ background-image:url(../img/area/bg_subttl-1environment.jpg)}
+h3.bg_biotechnology{ background-image:url(../img/area/bg_subttl-2biotechnology.jpg)}
+h3.bg_ergonomics{ background-image:url(../img/area/bg_subttl-3ergonomics.jpg)}
+h3.bg_chemistry{ background-image:url(../img/area/bg_subttl-4chemistry.jpg)}
+h3.bg_information{ background-image: url(../img/area/bg_subttl-5information.jpg)}
+h3.bg_geology{ background-image:url(../img/area/bg_subttl-6geology.jpg)}
+h3.bg_metrology{ background-image:url(../img/area/bg_subttl-7metrology.jpg)}
+
+
+/*========================================================
+ イベント情報
+ ========================================================*/
+.event_back {text-align:right; margin-top:-1em;}
+
+/*========================================================
+ サイトマップ
+ ========================================================*/
+.sitemap ul {margin:0; padding:0; list-style:none;}
+.sitemap li {list-style:none; line-height:0; margin:0; padding:0; border-bottom:none;}
+.sitemap > ul {margin:0; padding:0; list-style:none;}
+.sitemap ul li a {display:block; color:#333333; text-decoration:none;}
+.sitemap ul li a:hover {text-decoration:none;}
+
+/*.sitemap ul li.currentpages a {border-bottom:none; background-color:#eeeeee; color:#a85057; font-size:110%;}*/
+
+.sitemap > ul > li {margin:0; padding:0; list-style:none;}
+.sitemap > ul > li > a {display:block; margin:0; padding-left:15px; line-height:2.8em; background:url(../img/bg_snav02.png) no-repeat 1px 22px #ffffff; border-bottom:solid 1px #d7d7d7; font-size:150%;} 
+.sitemap > ul > li > a:hover {background-color:#eeeeee;}
+
+.sitemap > ul > li > ul {}
+.sitemap > ul > li > ul > li > a {display:block; margin:0; padding-left:30px; line-height:2.8em; background:url(../img/bg_snav02.png) no-repeat 15px 22px #ffffff; border-bottom:solid 1px #d7d7d7; font-size:150%;}
+.sitemap > ul > li > ul > li > a:hover {background-color:#eeeeee;}
+
+.sitemap > ul > li > ul > li > ul {}
+.sitemap > ul > li > ul > li > ul > li > a {color:rgb(207, 0, 16);display:block; margin:0; padding-left:100px; line-height:2.8em; background:url(../img/bg_snav03.png) no-repeat 85px 18px #ffffff; border-bottom:solid 1px #d7d7d7; font-size:130%;}
+.sitemap > ul > li > ul > li > ul > li > a:hover {background-color:#eeeeee;}
+
+
+
+/*========================================================
+ pagetop
+ ========================================================*/
+.pagetop{text-align:right; width:1000px; margin:0 auto; padding:10px 0 5px 0;}
+.pagetop a,
+.pagetop a:link,
+.pagetop a:visited{font-size:85%; color:#666666; width:85px; height:48px; text-decoration:none;}
+.pagetop a:hover,
+.pagetop a:active{color:#cccccc; text-decoration:none;}
+
+/* ===========================================================
+ ダウンロードボタン
+=========================================================== */
+/* 角丸ボタン共通 */
+.temp_downBtn {overflow:hidden; width:200px; height:50px; margin:20px; padding:0; border-radius:10px; -webkit-border-radius:10px; -moz-border-radius:10px;}
+.temp_downBtn a {display: block;position:relative; z-index:100; text-align:center; background:#0065e8; color:#fff; font-size:100%; font-weight:bold; line-height:50px; text-decoration:none;}
+.temp_downBtn a:hover {background:#3ab2e9;}
+
+/* ===========================================================
+ css for print
+=========================================================== */
+@media print {
+body {font-family: "ヒラギノ角ゴ Pro W3","HiraginoKaku Gothic Pro", "Osaka", "ＭＳ Ｐゴシック", "sans-serif";}
+}
+
+.justify {
+  text-align: justify;
+  text-justify: inter-ideograph; /* IE用 */
+

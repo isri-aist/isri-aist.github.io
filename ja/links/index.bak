@@ -1,0 +1,99 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="../common/css/default_unit.css" rel="stylesheet" type="text/css" />
+<title>関連リンク｜産総研：インダストリアルCPS研究センター</title>
+<meta name="description" content="" />
+<meta name="keywords" content="産業技術総合研究所, 産総研, AIST, 国立研究開発法人, 研究所" />
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 22.0.5.0 for Windows" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<link rel="shortcut icon" type="image/x-icon" href="../common/img/favicon.ico" />
+</head>
+
+
+<body>
+<div id="blockskip"><a href="#ContentPane">本文へ</a></div>
+<a name="headBody"></a> 
+
+<!-- ヘッダーここから -->
+<iframe src="../common/header/header_img.html" name="header" title="header" width="100%" height="188" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="center"></iframe>
+<!-- ヘッダーここまで -->
+
+<div id="mainBody"> 
+  
+  <!-- パンくずリスト　上位のページを<span>&nbsp;&gt;&nbsp;</span><a href="#">〇〇</a>で追加し、〇〇のところに現在のページをテキストで追加してください。 -->
+  <p class="breadcrumbs"><a href="http://www.aist.go.jp">ホーム</a><span>&nbsp;&gt;&nbsp;</span><a href="http://www.aist.go.jp/aist_j/information/index.html">産総研について</a><span>&nbsp;&gt;&nbsp;</span><a href="http://www.aist.go.jp/aist_j/information/organization/organization_main.html">組織</a><span>&nbsp;&gt;&nbsp;</span><a href="../../index.html">インダストリアルCPS研究センター</a><span>&nbsp;&gt;&nbsp;</span>関連リンク</p>
+  <!-- パンくずリストここまで -->
+  
+  <div id="ContentPane"> 
+    
+    <!-- ページタイトル -->
+    <h1>関連リンク</h1>
+    <!-- ページタイトルここまで -->
+    
+    <div class="mainContents">
+      <h2>産総研関係</h2>
+      <ul>
+      	<li><a href="https://www.aist.go.jp/" target="_blank">国立研究開発法人　産業技術総合研究所</a> (<a href="https://www.youtube.com/user/aistchanneleng" target="_blank">YouTube</a>)(<a href="https://twitter.com/AIST_JP" target="_blank">Twitter</a>)</li>
+      	<li><a href="https://www.aist.go.jp/aist_j/dept/dithf.html" target="_parent">情報・人間工学領域</a></li>
+      </ul>
+      <ul>
+        <li>産総研先進ドローン技術コンソーシアム</li>
+        <li></li>
+      </ul>
+      <ul>
+        <li><a href="https://www.aist-solutions.co.jp/" target="_blank">AIST Solutions</a></li>
+      </ul>
+      <h2>その他</h2>
+      <ul>
+      	<li><a href="https://www.meti.go.jp/" target="_blank">経済産業省</a></li>
+      </ul>
+      <ul>
+      </ul>
+      
+      
+    </div>
+  </div>
+  
+  <!-- サイドエリア　<li><a href="#">サイドナビ</a></li>を適宜修正・増減して下さい。 -->
+  <div id="sideWrap">
+    <div class="sNav">
+      <ul>
+        <li><a href="../../index.html">ICPSトップ</a>
+        <ul>
+            <li><a href="../organization/index.html">研究センター紹介</a></li>
+            <li><a href="../teams/index.html">研究チーム</a></li>
+            <li><a href="../consortium/index.html">コンソーシアム</a></li>
+            <li><a href="../member/index.html">構成メンバー</a></li>
+            <li><a href="../results/index.html">研究成果</a></li>
+          <li><a href="../recruit/index.html">人材募集</a></li>
+            <li><a href="../location/index.html">所在地</a></li>
+            <li><a href="../contact/index.html">お問合せ</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+    
+    <!-- サイドエリアバナー配置場所（幅220pxまで） --> 
+    
+    <br/>
+    <div class="banner_m"></div>
+    
+    <!-- サイドエリアバナー配置場所ここまで --> 
+    
+  </div>
+  <!-- サイドエリアここまで --> 
+  
+</div>
+
+<!-- ページトップへ表示（削除しないでください） -->
+<p class="pagetop"><a href="#headBody">▲ ページトップへ</a></p>
+<!-- ページトップへここまで --> 
+
+<!-- フッターここから -->
+<iframe src="../common/footer/footer.html" name="footer" title="footer" width="100%" height="60" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="center"></iframe>
+<!-- フッターここまで -->
+
+</body>
+</html>

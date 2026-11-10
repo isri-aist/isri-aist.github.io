@@ -1,0 +1,103 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="ja" lang="ja">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link href="../common/css/default_unit.css" rel="stylesheet" type="text/css" />
+<title>人材募集｜産総研　インテリジェントシステム研究部門</title>
+<meta name="description" content="" />
+<meta name="keywords" content="産業技術総合研究所, 産総研, AIST, 国立研究開発法人, 研究所" />
+<meta name="GENERATOR" content="JustSystems Homepage Builder Version 22.0.5.0 for Windows" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<link rel="shortcut icon" type="image/x-icon" href="../common/img/favicon.ico" />
+</head>
+
+
+<body>
+<div id="blockskip"><a href="#ContentPane">本文へ</a></div>
+<a name="headBody"></a> 
+
+<!-- ヘッダーここから -->
+<iframe src="../common/header/header_img.html" name="header" title="header" width="100%" height="188" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="center"></iframe>
+<!-- ヘッダーここまで -->
+
+<div id="mainBody"> 
+  
+  <!-- パンくずリスト　上位のページを<span>&nbsp;&gt;&nbsp;</span><a href="#">〇〇</a>で追加し、〇〇のところに現在のページをテキストで追加してください。 -->
+  <p class="breadcrumbs"><a href="http://www.aist.go.jp">ホーム</a><span>&nbsp;&gt;&nbsp;</span><a href="http://www.aist.go.jp/aist_j/information/index.html">産総研について</a><span>&nbsp;&gt;&nbsp;</span><a href="http://www.aist.go.jp/aist_j/information/organization/organization_main.html">組織</a><span>&nbsp;&gt;&nbsp;</span><a href="../../index.html">インテリジェントシステム研究部門</a><span>&nbsp;&gt;&nbsp;</span>人材募集</p>
+  <!-- パンくずリストここまで -->
+  
+  <div id="ContentPane"> 
+    
+    <!-- ページタイトル -->
+    <h1>人材募集</h1>
+    <!-- ページタイトルここまで　-->
+    
+    <div class="mainContents">
+      <p>最新の募集内容は、下記に記載しましたページよりご確認ください。</p>
+      <h2>研究職員</h2>
+      <p>研究職員を志望される方は、以下のページをご覧ください。<br />
+      <img src="../common/img/allaw_m_gray.png" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" align="middle" /><a href="https://www.aist.go.jp/aist_j/humanres/02kenkyu/index.html" target="_blank">産総研：研究職員募集</a></p>
+      <ul class="listArrow">
+      </ul>
+      <br />
+      <h2>契約職員</h2>
+      <p>ポスドク（一号、産総研特別研究員）、テクニカルスタッフ（二号、研究補助）、クレリカルスタッフ（三号、事務補助）、産総研リサーチアシスタント（RA）等の契約職員（有期雇用）募集情報は、以下のページをご覧ください。<br />
+      <img src="../common/img/allaw_m_gray.png" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" align="middle" /><a href="https://www.aist.go.jp/aist_j/humanres/04keiyaku/index.html" target="_blank">産総研：契約職員募集</a></p>
+      <br />
+      当研究部門の募集案件がある場合、以下の手順で募集要項を確認することができます。<br />
+      <br />
+      <h5>募集要項の確認のしかた</h5>
+      <ol>
+  <li>上記ページを開く。</li>
+  <li>契約職員募集一覧の「勤務地」欄にある、「臨海副都心センター」、「つくばセンター」の中から希望するものをクリック</li>
+        <li>募集案件がある場合、募集ユニット欄にユニット名（インテリジェントシステム研究部門）が表示され、右の欄に「○」が記されています。</li>
+  <li>「○」をクリックすると募集要項詳細を確認することができます。</li>
+  </ol>
+      <br />
+      <h2>労働者派遣契約</h2>
+      労働者派遣契約ついては、一般競争入札、公募、見積競争等により手続きします。 以下のページをご確認ください。<br />
+      <img src="../common/img/allaw_m_gray.png" border="0" style="border-top-width : 0px;border-left-width : 0px;border-right-width : 0px;border-bottom-width : 0px;" align="middle" /><a href="https://www.aist.go.jp/aist_j/procure/index.html" target="_blank">産総研：調達情報</a><br />
+    </div>
+  </div>
+  
+  <!-- サイドエリア　<li><a href="#">サイドナビ</a></li>を適宜修正・増減して下さい。 -->
+  <div id="sideWrap">
+    <div class="sNav">
+      <ul>
+        <li><a href="../../index.html">ISRIトップ</a>
+        <ul>
+            <li><a href="../organization/index.html">研究部門紹介</a></li>
+            <li><a href="../groups/index.html">研究グループ</a></li>
+           <!--    <li><a href="../consortium/index.html">コンソーシアム</a></li>  --> 
+            <li><a href="../member/index.html">構成メンバー</a></li>
+            <li><a href="../results/index.html">研究成果</a></li>
+          <li class="CurrentItem"><a href="index.html">人材募集</a></li>
+            <li><a href="../location/index.html">所在地</a></li>
+            <li><a href="../contact/index.html">お問合せ</a></li>
+          </ul>
+        </li>
+      </ul>
+    </div>
+    
+    <!-- サイドエリアバナー配置場所（幅220pxまで） --> 
+    
+    <br/>
+    <div class="banner_m"></div>
+    
+    <!-- サイドエリアバナー配置場所ここまで --> 
+    
+  </div>
+  <!-- サイドエリアここまで --> 
+  
+</div>
+
+<!-- ページトップへ表示（削除しないでください） -->
+<p class="pagetop"><a href="#headBody">▲ ページトップへ</a></p>
+<!-- ページトップへここまで --> 
+
+<!-- フッターここから -->
+<iframe src="../common/footer/footer.html" name="footer" title="footer" width="100%" height="60" scrolling="no" marginwidth="0" marginheight="0" frameborder="0" align="center"></iframe>
+<!-- フッターここまで -->
+
+</body>
+</html>
