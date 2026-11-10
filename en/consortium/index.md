@@ -6,9 +6,7 @@ permalink: /en/consortium/
 ---
 
 
- page title 
 <h1>Consortium</h1>
- page title 
 <div class="mainContents">
 <ul>
 <li><a href="{{ '/en/consortium/drone_consortium.html' | relative_url }}" target="_self">Advanced Drone Technology Consortium（ADTC）</a></li>
