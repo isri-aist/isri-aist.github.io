@@ -6,9 +6,7 @@ permalink: /ja/consortium/drone_consortium.html
 ---
 
 
- ページタイトル 
 <h1><span style="font-size : 95%;">産総研先進ドローン技術コンソーシアム</span></h1>
- ページタイトルここまで　
 <div class="mainContents">
       　産総研先進ドローン技術コンソーシアム(Advanced Drone Technology Consortium:ADTC)は、 先進ドローン技術に携わる産総研研究者と企業等による会員組織です。国立研究開発法人産業技術
       総合研究所に事務局を設置し、産総研研究者との連携および会員相互の交流・親睦を図ることを目的としています。先進ドローンに必要な広範な分野に渡る最新技術や研究動向、将来技術に関する
