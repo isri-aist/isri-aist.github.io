@@ -6,3 +6,8 @@
 .content table.listTable th:nth-child(2){width:40%}
 .content table.listTable th:nth-child(3){width:20%}
 .content table.listTable th,.content table.listTable td{overflow-wrap:anywhere;word-break:normal}
+
+/* Center standard content tables at 80% of the content column. */
+.content table:not(.listTable){display:table;width:80%;max-width:100%;margin:20px auto;border-collapse:collapse;overflow-wrap:anywhere}
+/* On narrow screens, use the full available width. */
+@media(max-width:720px){.content table:not(.listTable){width:100%}}
