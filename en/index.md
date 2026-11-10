@@ -6,7 +6,6 @@ permalink: /en/
 ---
 
 
- unit image  unit_image end 
 <div class="mainContents">
 <span style="color : #333333;
 	font-size : 120%;
