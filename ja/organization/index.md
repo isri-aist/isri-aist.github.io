@@ -6,9 +6,7 @@ permalink: /ja/organization/
 ---
 
 
- ページタイトル 
 <h1>研究部門紹介</h1>
- ページタイトルここまで　 メインコンテンツ 
 <div class="mainContents">
 <h2>インテリジェントシステム研究部門について</h2>
 <br/>
