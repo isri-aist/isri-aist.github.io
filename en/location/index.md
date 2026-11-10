@@ -6,9 +6,7 @@ permalink: /en/location/
 ---
 
 
- page title 
 <h1>Location</h1>
- page title 
 <div class="mainContents">
 <h2>Address</h2>
 <br/>
