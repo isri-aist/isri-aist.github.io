@@ -6,9 +6,7 @@ permalink: /ja/contact/
 ---
 
 
- ページタイトル 
 <h1>お問合せ</h1>
- ページタイトルここまで 
 <div class="mainContents">
 <p>連携相談につきましては、<a href="https://www.aist.go.jp/aist_j/researcher/aboutus/dep_dithf.html" target="_blank">情報・人間工学領域</a>までお問合せください。<br/>
 <br/>
