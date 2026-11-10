@@ -6,9 +6,7 @@ permalink: /ja/groups/
 ---
 
 
- ページタイトル 
 <h1>研究グループ</h1>
- ページタイトルここまで　
 <div class="mainContents">
 <p><font size="-1"><a href="#tirrg" target="_self">タスク知能ロボティクス</a> | <a href="#frrg" target="_self">フィールドロボティクス</a> | <a href="#twrg" target="_self">信頼ロボティクス</a> | <a href="#smrg" target="_self">スマートモビリティ</a> <br/>
 <a href="#jrl" target="_self">CNRS-産総研ロボット工学連携研究室</a> | <a href="#mahsdc" target="_self">三菱電機-産総研 Human-Centric システムデザイン連携研究室</a></font></p>
