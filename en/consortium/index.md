@@ -10,6 +10,7 @@ permalink: /en/consortium/
 <div class="mainContents">
 <ul>
 <li><a href="{{ '/en/consortium/drone_consortium.html' | relative_url }}" target="_self">Advanced Drone Technology Consortium（ADTC）</a></li>
+<li><a href="{{ '/en/consortium/automated_driving_consortium.html' | relative_url }}">Consortium for Social Implementation of Autonomous Mobility Services (proposed)</a></li>
 </ul>
 <br/>
 <br/>
