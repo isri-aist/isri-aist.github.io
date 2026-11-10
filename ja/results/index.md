@@ -6,9 +6,7 @@ permalink: /ja/results/
 ---
 
 
- ページタイトル 
 <h1>研究成果</h1>
- ページタイトルここまで　
 <div class="mainContents">
 <h2>研究成果</h2>
 <img align="middle" border="0" src="{{ '/ja/common/img/allaw_m_gray.png' | relative_url }}" style="border-top-border-left-border-right-border-bottom-"/><a href="https://www.aist.go.jp/aist_j/list/l_research_research.html?txtSearch=search&amp;psAttributenameid14=16&amp;psAttributeitemid14=&amp;psFreeWord14=&amp;Selldatetime_Start14=&amp;Selldatetime_End14=&amp;Selldatetime_Order14=0&amp;search14=1" target="_blank">情報・人間工学領域の研究成果のご紹介</a> <br/>
