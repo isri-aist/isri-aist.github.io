@@ -69,8 +69,21 @@ permalink: /en/organization/
 <h2>Organization Chart</h2>
       As of April 1, 2025<br/>
 <br/>
-<div style="text-align: center;"><img border="0" src="{{ '/en/organization/img/sosikizu20250401en.png' | relative_url }}" style=""/><br/>
-</div>
+<div class="organization-diagram"><pre class="mermaid">
+flowchart TB
+  ISRI["Intelligent Systems Research Institute"]
+  ISRI --> TIR["Task-Intelligent Robotics Research Group"]
+  ISRI --> FR["Field Robotics Research Group"]
+  ISRI --> TR["Trustworthy Robotics Research Group"]
+  ISRI --> SM["Smart Mobility Research Group"]
+  ISRI --> JRL["CNRS–AIST Joint Robotics Laboratory"]
+  ISRI --> MEL["Mitsubishi Electric–AIST Human-Centric System Design CRL"]
+  classDef institute fill:#12384c,color:#fff,stroke:#12384c,stroke-width:2px
+  classDef group fill:#e7f3f6,color:#12384c,stroke:#6bb7c6
+  class ISRI institute
+  class TIR,FR,TR,SM,JRL,MEL group
+</pre></div>
+<p class="chart-note">Schematic overview of research groups and joint laboratories. See <a href="{{ '/en/member/' | relative_url }}">Members</a> for details.</p>
 <ul>
 <li>Intelligent Systems Resesarch Institute was established on April 1, 2025.</li>
 </ul>
