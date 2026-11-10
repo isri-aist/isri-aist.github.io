@@ -18,3 +18,22 @@
 .organization-diagram svg{max-width:100%;height:auto}
 .chart-note{font-size:13px;color:#637482;text-align:center}
 @media(max-width:720px){.organization-diagram{padding:8px}}
+
+/* Flat-design consortium navigation banners */
+.consortium-intro{margin:0 0 30px}.consortium-intro h1{margin:0 0 12px}.consortium-intro p{max-width:800px;color:#566b79}
+.consortium-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:26px;margin:34px 0}
+.content a.consortium-card{display:flex;flex-direction:column;min-width:0;overflow:hidden;border:1px solid #dce6eb;border-radius:16px;background:#fff;color:#193446;text-decoration:none;box-shadow:0 5px 22px rgba(8,35,52,.055);transition:transform .2s ease,box-shadow .2s ease,border-color .2s ease}
+.content a.consortium-card:hover,.content a.consortium-card:focus-visible{transform:translateY(-4px);border-color:#79bacb;box-shadow:0 16px 35px rgba(8,35,52,.14);text-decoration:none}
+.consortium-card-art{height:190px;position:relative;display:flex;align-items:center;justify-content:center;overflow:hidden;isolation:isolate}
+.consortium-card--drone .consortium-card-art{background:#e6f6f5;color:#147f8b}.consortium-card--mobility .consortium-card-art{background:#e8f0fb;color:#3569a8}
+.consortium-card-art-circle{position:absolute;width:260px;height:260px;border:2px solid currentColor;opacity:.12;border-radius:50%;right:-55px;top:-100px;z-index:-1}
+.consortium-icon{width:210px;height:155px;max-width:72%;z-index:1}
+.consortium-card-body{display:flex;flex-direction:column;flex:1;padding:27px 28px 30px}
+.consortium-card-kicker{font-size:11px;letter-spacing:.12em;font-weight:800;color:#087d90}
+.consortium-card--mobility .consortium-card-kicker{color:#3767a3}
+.content .consortium-card h2{font-size:21px;line-height:1.5;border:0;padding:0;margin:10px 0 12px;color:#132f45}
+.content .consortium-card p{font-size:14px;line-height:1.8;color:#536b7a;margin:0 0 22px}
+.consortium-card-action{margin-top:auto;font-weight:700;color:#087c95;font-size:14px}.consortium-card-action span{margin-left:8px;font-size:19px}
+.consortium-more{margin-top:30px;color:#5a6d7a;font-size:14px}
+@media(max-width:720px){.consortium-grid{grid-template-columns:1fr;gap:18px}.consortium-card-art{height:155px}.consortium-card-body{padding:23px}}
+@media(prefers-reduced-motion:reduce){.content a.consortium-card{transition:none}.content a.consortium-card:hover{transform:none}}
