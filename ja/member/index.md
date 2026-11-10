@@ -6,9 +6,7 @@ permalink: /ja/member/
 ---
 
 
- ページタイトル 
 <h1>構成メンバー</h1>
- ページタイトルここまで　 メインコンテンツ 
 <div class="mainContents">
 <p><font size="-1"><a href="#isri" target="_self">部門幹部・部門付き</a> <br/>
 <a href="#tirrg" target="_self">タスク知能ロボティクス</a> |<a href="#frrg" target="_self">フィールドロボティクス</a> | <a href="#twrg" target="_self">信頼ロボティクス</a> | <a href="#smrg" target="_self">スマートモビリティ</a> <br/>
