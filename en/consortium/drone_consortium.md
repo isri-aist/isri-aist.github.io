@@ -6,9 +6,7 @@ permalink: /en/consortium/drone_consortium.html
 ---
 
 
- page title 
 <h1>Advanced Drone Technology Consortium（ADTC）</h1>
- page title 
 <div class="mainContents">
 <p>The Advanced Drone Technology Consortium (ADTC) is a membership organization
       comprising AIST researchers and companies engaged in advanced drone technology.
