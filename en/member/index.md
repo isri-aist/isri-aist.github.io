@@ -6,9 +6,7 @@ permalink: /en/member/
 ---
 
 
- page title 
 <h1>Members</h1>
- page title 
 <div class="mainContents">
 <p><font size="-1"><a href="#icps" target="_self">Director, Deputy Director</a><br/>
 <a href="#tirrg" target="_self">Task-Intelligent Robotics RG</a> | <a href="#frrg" target="_self">Field Robotics RG</a> | <a href="#trrg" target="_self">Trustworthy Robotics RG</a> |<br/>
