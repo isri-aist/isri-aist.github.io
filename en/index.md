@@ -21,18 +21,9 @@ permalink: /en/
 <div style="text-align: center;"><img border="0" src="{{ '/en/images/isri_concept_en.jpg' | relative_url }}" style=""/></div>
 <br/>
 <br/>
-<div class="newsListTitle">
-<div class="newslistall"></div>
-<h2>What's New</h2>
-</div>
-<div>
-<dl class="newsListCont">
-<dt>2026/04/01</dt>
-<dd>"<a href="{{ '/en/member/' | relative_url }}" target="_self"><span style="color : #ff0000;">Members</span></a>" has been updated.</dd>
-<dt>2025/07/08</dt>
-<dd>website open</dd>
-</dl>
-</div>
+<div class="newsListTitle"><h2>What's New</h2></div>
+<dl class="newsListCont">{% assign en_posts = site.posts | where: 'lang', 'en' %}{% for post in en_posts limit:5 %}<dt>{{ post.date | date: '%Y/%m/%d' }}</dt><dd><a href="{{ post.url | relative_url }}">{{ post.title }}</a></dd>{% endfor %}</dl>
+<p class="news-archive-link"><a href="{{ '/en/archive/' | relative_url }}">Past news →</a></p>
 <br/>
 <!-- Inquiry -->
 <div class="grayLineBox">
