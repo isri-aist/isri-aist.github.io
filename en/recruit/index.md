@@ -6,9 +6,7 @@ permalink: /en/recruit/
 ---
 
 
- page title 
 <h1>Job Opportunities</h1>
- page title end  main contents 
 <div class="mainContents">
 <h2>Job Opportunities</h2>
       AIST Website : Job Opportunities (<a href="https://www.aist.go.jp/aist_e/humanres/index.html" target="_blank">https://www.aist.go.jp/aist_e/humanres/index.html</a>) <br/>
