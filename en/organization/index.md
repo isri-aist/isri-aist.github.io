@@ -6,9 +6,7 @@ permalink: /en/organization/
 ---
 
 
- page title 
 <h1>Introduction to the Research Institute</h1>
- page title 
 <div class="mainContents">
 <h2>About the Intelligent Systems Research Institute</h2>
 <br/>
