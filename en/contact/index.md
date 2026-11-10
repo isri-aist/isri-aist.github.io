@@ -6,9 +6,7 @@ permalink: /en/contact/
 ---
 
 
- page title 
 <h1>Contact</h1>
- page title 
 <div class="mainContents">
 <p>If you have any questions, please contact us by email.<br/>
 <br/>
