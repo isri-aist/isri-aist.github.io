@@ -6,10 +6,7 @@ permalink: /ja/location/
 ---
 
 
- ページタイトル 
 <h1>所在地</h1>
- ページタイトルここまで　
- メインコンテンツ 
 <div class="mainContents">
 <h2>つくばセンター 中央事業所</h2>
 <table class="listTable">
