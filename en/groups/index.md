@@ -6,9 +6,7 @@ permalink: /en/groups/
 ---
 
 
- page title 
 <h1>Research Groups</h1>
- page title 
 <div class="mainContents">
 <p><font size="-1"><a href="#tirrg" target="_self">Task-Intelligent Robotics RG</a> | <a href="#frrg" target="_self">Field Robotics RG</a> | <a href="#trrg" target="_self">Trustworthy Robotics RG</a> |<br/>
 <a href="#smrg" target="_self">Smart Mobility RG</a> | <a href="#jrl" target="_self">CNRS-AIST JRL (Joint Robotics Laboratory), IRL3218</a> | <br/>
