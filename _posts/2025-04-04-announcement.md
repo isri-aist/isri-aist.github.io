@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: ja
-title: お知らせ（2025/4/4）
+title: インテリジェントシステム研究部門が発足しました
 date: 2025-04-04 12:00:00 +0900
 fiscal_year: 2025
 ---
