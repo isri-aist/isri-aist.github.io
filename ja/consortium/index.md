@@ -6,9 +6,7 @@ permalink: /ja/consortium/
 ---
 
 
- ページタイトル 
 <h1>コンソーシアムのご紹介</h1>
- ページタイトルここまで　
 <div class="mainContents">
 <h3><a id="drone" name="drone"></a>産総研先進ドローン技術コンソーシアム</h3>
 <ul>
