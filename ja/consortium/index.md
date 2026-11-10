@@ -5,19 +5,9 @@ lang: ja
 permalink: /ja/consortium/
 ---
 
-
-<h1>コンソーシアムのご紹介</h1>
-<div class="mainContents">
-<h3><a id="drone" name="drone"></a>産総研先進ドローン技術コンソーシアム</h3>
-<ul>
-<li>英語名：Advanced Drone Technology Consortium（ADTC）</li>
-<li>2024年8月発足</li>
-</ul>
-<p><img align="middle" border="0" src="{{ '/ja/common/img/allaw_m_gray.png' | relative_url }}" style="border-top-border-left-border-right-border-bottom-"/><a href="{{ '/ja/consortium/drone_consortium.html' | relative_url }}" target="_self">紹介ページ</a></p>
-<h3>自動運転移動サービス社会実装コンソーシアム（設置構想）</h3>
-<p>レベル4自動運転移動サービスの持続可能な社会実装に向け、研究者・運行事業者・自治体・産業界などが協調領域の課題解決を目指すコンソーシアムの設置構想です。</p>
-<p><a href="{{ '/ja/consortium/automated_driving_consortium.html' | relative_url }}">紹介ページ</a></p>
-<br/>
-<br/>
-      産総研のその他のコンソーシアムのご紹介は<a href="https://www.aist.go.jp/aist_j/business/alliance/consortium/index.html" target="_blank">こちら</a>をご覧ください。<br/>
+<section class="consortium-intro"><h1>コンソーシアムのご紹介</h1><p>産総研では、研究者と企業・自治体などの連携を通じ、先進技術の開発と社会実装を推進しています。各コンソーシアムの活動をご紹介します。</p></section>
+<div class="consortium-grid">
+<a class="consortium-card consortium-card--drone" href="{{ '/ja/consortium/drone_consortium.html' | relative_url }}" aria-label="産総研先進ドローン技術コンソーシアムの紹介を見る"><div class="consortium-card-art"><svg class="consortium-icon" viewBox="0 0 240 180" role="img" aria-label="Drone illustration" xmlns="http://www.w3.org/2000/svg"><g fill="none" stroke="currentColor" stroke-width="7" stroke-linecap="round" stroke-linejoin="round"><path d="M120 75L65 48M120 75l55-27M120 89l-55 39m55-39l55 39"/><rect x="91" y="66" width="58" height="39" rx="13" fill="currentColor" fill-opacity=".16"/><circle cx="52" cy="43" r="24"/><circle cx="188" cy="43" r="24"/><circle cx="52" cy="137" r="24"/><circle cx="188" cy="137" r="24"/><path d="M120 105v23m-18 0h36"/></g></svg><span class="consortium-card-art-circle"></span></div><div class="consortium-card-body"><span class="consortium-card-kicker">DRONE TECHNOLOGY</span><h2>産総研先進ドローン技術コンソーシアム</h2><p>先進ドローン技術に関する情報共有、技術交流、セミナー、ワーキンググループなどを通じて産学連携を推進します。</p><span class="consortium-card-action">コンソーシアムを見る <span aria-hidden="true">→</span></span></div></a>
+<a class="consortium-card consortium-card--mobility" href="{{ '/ja/consortium/automated_driving_consortium.html' | relative_url }}" aria-label="自動運転移動サービス社会実装コンソーシアムの紹介を見る"><div class="consortium-card-art"><svg class="consortium-icon" viewBox="0 0 240 180" role="img" aria-label="Autonomous bus illustration" xmlns="http://www.w3.org/2000/svg"><g fill="none" stroke="currentColor" stroke-width="6" stroke-linejoin="round" stroke-linecap="round"><rect x="32" y="47" width="176" height="91" rx="20" fill="currentColor" fill-opacity=".14"/><path d="M50 72h139v36H50zM110 72v36m42-36v36M45 119h149"/><circle cx="73" cy="141" r="13" fill="#fff"/><circle cx="170" cy="141" r="13" fill="#fff"/><path d="M120 35v-13m-18 8q18-16 36 0M92 19q28-27 56 0"/></g></svg><span class="consortium-card-art-circle"></span></div><div class="consortium-card-body"><span class="consortium-card-kicker">AUTONOMOUS MOBILITY · 設置構想</span><h2>自動運転移動サービス社会実装コンソーシアム</h2><p>レベル4自動運転移動サービスの持続可能な社会実装に向け、技術・運用・法制度など協調領域の課題解決を目指します。</p><span class="consortium-card-action">設置構想を見る <span aria-hidden="true">→</span></span></div></a>
 </div>
+<p class="consortium-more">産総研のその他のコンソーシアムは<a href="https://www.aist.go.jp/aist_j/business/alliance/consortium/index.html" target="_blank" rel="noopener noreferrer">産総研公式サイト</a>をご覧ください。</p>
