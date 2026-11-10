@@ -50,8 +50,6 @@ The consortium's organizational framework includes a general assembly, steering 
 - New joint research, demonstrations, and projects
 - Stronger industry–academia–government collaboration for sustainable regional transport
 
----
 
-**Source:** AIST presentation on the establishment of the Consortium for Social Implementation of Autonomous Mobility Services (2026). Membership details, governing rules, and contact information will be published after confirmation.
 
 [Back to consortia]({{ '/en/consortium/' | relative_url }})
