@@ -6,9 +6,7 @@ permalink: /ja/links/
 ---
 
 
- ページタイトル 
 <h1>関連リンク</h1>
- ページタイトルここまで 
 <div class="mainContents">
 <h2>産総研関係</h2>
 <ul>
