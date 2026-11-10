@@ -6,9 +6,7 @@ permalink: /en/links/
 ---
 
 
- page title 
 <h1>Links</h1>
- page title 
 <div class="mainContents">
 <ul>
 <li>AIST (<a href="https://www.aist.go.jp/index_en.html" target="_blank">https://www.aist.go.jp/index_en.html</a>)</li>
