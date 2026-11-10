@@ -11,3 +11,10 @@
 .content table:not(.listTable){display:table;width:80%;max-width:100%;margin:20px auto;border-collapse:collapse;overflow-wrap:anywhere}
 /* On narrow screens, use the full available width. */
 @media(max-width:720px){.content table:not(.listTable){width:100%}}
+
+/* News lists and editable organization chart */
+.news-archive-link{text-align:right;margin-top:14px;font-weight:600}
+.organization-diagram{margin:26px auto;padding:24px;background:#f5f9fb;border:1px solid #dce5e9;border-radius:12px;overflow-x:auto}
+.organization-diagram svg{max-width:100%;height:auto}
+.chart-note{font-size:13px;color:#637482;text-align:center}
+@media(max-width:720px){.organization-diagram{padding:8px}}
