@@ -50,3 +50,12 @@
 .content .consortium-card p{font-size:12px;line-height:1.65;margin:0 0 10px}
 .consortium-card-action{font-size:12px}
 @media(max-width:600px){.consortium-grid{grid-template-columns:1fr;max-width:440px}.consortium-card-art{height:116px}.consortium-icon{height:108px}}
+
+/* Director's introduction: right-floated portrait with a real-text caption. */
+.content .organization-director{float:right;width:180px;max-width:38%;margin:4px 0 20px 28px;text-align:center}
+.content .organization-director img{display:block;width:100%;height:auto;border-radius:5px}
+.content .organization-director figcaption{display:flex;flex-direction:column;align-items:center;gap:2px;margin-top:10px;line-height:1.5;color:#213343;overflow-wrap:normal;word-break:normal}
+.content .organization-director figcaption strong{font-size:16px;font-weight:700}
+.content .organization-director figcaption span{font-size:12px;color:#637482}
+@media(max-width:600px){.content .organization-director{width:140px;max-width:42%;margin:3px 0 14px 15px}.content .organization-director figcaption strong{font-size:14px}.content .organization-director figcaption span{font-size:11px}}
+@media(max-width:360px){.content .organization-director{width:120px;max-width:44%;margin-left:12px}}
