@@ -6,7 +6,6 @@ permalink: /
 ---
 
 
-    <h1 class="fieldTitle"><img src="ja/images/3.jpg" alt="ユニットイメージ画像" /></h1>
 <div class="mainContents">
 <span style="font-size : 150%;
 	color : #474747;
