@@ -10,15 +10,10 @@ permalink: /en/organization/
 <div class="mainContents">
 <h2>About the Intelligent Systems Research Institute</h2>
 <br/>
-<table border="0">
-<tbody>
-<tr>
-<td><img border="0" src="{{ '/en/organization/img/NoriakiAndo_portrait.jpg' | relative_url }}" style=""/></td>
-<td> </td>
-<td><img border="0" src="{{ '/en/organization/img/name_ando_en.png' | relative_url }}" style=""/></td>
-</tr>
-</tbody>
-</table>
+<figure class="organization-director">
+  <img src="{{ '/en/organization/img/NoriakiAndo_portrait.jpg' | relative_url }}" alt="Noriaki Ando, Director" loading="lazy">
+  <figcaption><strong>Noriaki Ando</strong><span>Director, Intelligent Systems Research Institute</span></figcaption>
+</figure>
 <br/>
 <p class="justify">We, the Intelligent Systems Research Institute, are dedicated to addressing
       urgent societal challenges in Japan—such as population decline and an aging

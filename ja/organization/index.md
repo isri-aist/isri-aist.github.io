@@ -10,17 +10,10 @@ permalink: /ja/organization/
 <div class="mainContents">
 <h2>インテリジェントシステム研究部門について</h2>
 <br/>
-<table border="0">
-<tbody>
-<tr>
-<td><img border="0" src="{{ '/ja/organization/img/NoriakiAndo_portrait.jpg' | relative_url }}" style=""/></td>
-<td> </td>
-<td><img border="0" src="{{ '/ja/organization/img/name_ando2_j.png' | relative_url }}" style=""/></td>
-</tr>
-</tbody>
-</table>
-<font size="-2" style="font-size : 67%;"><br/>
-</font>
+<figure class="organization-director">
+  <img src="{{ '/ja/organization/img/NoriakiAndo_portrait.jpg' | relative_url }}" alt="研究部門長 安藤慶昭" loading="lazy">
+  <figcaption><strong>安藤 慶昭</strong><span>研究部門長</span></figcaption>
+</figure>
 <p>　私たちインテリジェントシステム研究部門は、人口減少や高齢化といった日本社会が直面する深刻な課題に対し、最先端の科学技術で立ち向かうことを使命としています。
       <br/>
 <br/>
