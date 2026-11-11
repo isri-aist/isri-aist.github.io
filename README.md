@@ -1,11 +1,11 @@
-# ISRI Website (Jekyll)
+# ISRI Website
 
-Modernized version of the supplied AIST Intelligent Systems Research Institute website. The original Japanese and English content, research group information, images, and AIST logos are retained.
+This is Intelligent Systems Research Institute, AIST.
 
 ## Publish
-1. Push all files to `main` in `n-ando/isri.github.io`.
+1. Push all files to `main` in `isri-aist/isri.github.io`.
 2. In Settings → Pages select **Deploy from a branch**, `main`, `/ (root)`.
-3. The site should appear at `https://n-ando.github.io/isri.github.io/`.
+3. The site should appear at `https://isri-aist.github.io`.
 
 ## Preview locally
 ```sh
