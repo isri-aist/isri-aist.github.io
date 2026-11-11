@@ -31,5 +31,4 @@ permalink: /
         　Eメール： M-isri-info-ml*aist.go.jp（*を@に変更して送信してください。）</p>
 </div>
 <br/>
-<!-- アクセスカウンタ --><i>Count from 2025/06/13</i>　 <!-- アクセスカウンタここまで -->
 </div>

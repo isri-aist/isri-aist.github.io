@@ -56,7 +56,8 @@ permalink: /en/member/
 <td>AIST Tokyo Waterfron</td>
 </tr>
 <tr>
-<td><span style="font-size : 60%;">(Integrated Research Center for Wellbeing)</span><br/>
+<td>Attached to ISRI<br/>
+<span style="font-size : 60%;">(Integrated Research Center for Wellbeing)</span><br/>
 <span style="font-size : 60%;">(Trustworthy Robotics Research Group)</span></td>
 <td>NAKABO Yoshihiro</td>
 <td>AIST Tsukuba </td>
@@ -85,6 +86,12 @@ permalink: /en/member/
 <tr>
 <td>Invited Senior Researcher</td>
 <td>KATO Masahiko</td>
+<td>AIST Tsukuba </td>
+</tr>
+<tr>
+<td>Attached to ISRI<br/>
+<span style="font-size : 60%;">(Senior Researcher, Human Informatics and Interaction Research Institute (HIIRI))</span></td>
+<td>WU Yanbin</td>
 <td>AIST Tsukuba </td>
 </tr>
 </tbody>

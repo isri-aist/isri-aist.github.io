@@ -56,7 +56,8 @@ permalink: /ja/member/
 <td>臨海</td>
 </tr>
 <tr>
-<td>研究部門付き<br/><span style="font-size : 60%;">主)ウェルビーイング実装研究センター 副研究センター長</span><br/>
+<td>研究部門付き<br/>
+<span style="font-size : 60%;">主)ウェルビーイング実装研究センター 副研究センター長</span><br/>
 <span style="font-size : 60%;">兼)信頼ロボティクス研究グループ付き</span></td>
 <td>中坊 嘉宏 (NAKABO Yoshihiro)</td>
 <td>つくば</td>
@@ -89,6 +90,13 @@ permalink: /ja/member/
 <tr>
 <td>招聘研究員</td>
 <td>加藤 昌彦 (KATO Masahiko)</td>
+<td>つくば</td>
+</tr>
+<tr>
+<td>研究部門付き<br/>
+<span style="font-size : 60%;">主)人間情報インタラクション研究部門　人間行動研究グループ 主任研究員</span><br/>
+<span style="font-size : 60%;">兼)人間情報インタラクション研究部門　住友理工-産総研先進高分子デバイス連携研究室 連携研究室付</span></td>
+<td>毋 岩斌 (WU Yanbin)</td>
 <td>つくば</td>
 </tr>
 </tbody>
