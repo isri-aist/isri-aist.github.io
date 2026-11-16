@@ -87,6 +87,20 @@
     </header>
     {% if page.url == '/' or page.url == '/en/' %}
     <section class="hero">
+      <video
+        class="hero-video"
+        autoplay
+        muted
+        loop
+        playsinline
+        preload="metadata"
+        aria-hidden="true"
+      >
+        <source
+          src="{{ '/assets/videos/isri_web_ebook.mp4' | relative_url }}"
+          type="video/mp4"
+        />
+      </video>
       <div class="hero-inner">
         <p class="eyebrow">AIST · INTELLIGENT SYSTEMS RESEARCH INSTITUTE</p>
         <h1>
