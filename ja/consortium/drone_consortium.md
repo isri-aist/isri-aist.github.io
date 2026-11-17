@@ -119,6 +119,7 @@ permalink: /ja/consortium/drone_consortium.html
 <li>WG3　水素燃料ドローン用発電機ワーキンググループ</li>
 <li>WG4　高電圧ドローンワーキンググループ</li>
 <li><a href="{{ '/ja/consortium/drone/Membership_information_VTOLwg_WG5_20260618.pdf' | relative_url }}" target="_blank">WG5　VTOL無人機ワーキンググループ</a></li>
+<li>WG6　防災ドローンワーキンググループ</li>
 </ul>
 </td>
 </tr>
