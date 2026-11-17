@@ -15,7 +15,7 @@ permalink: /ja/consortium/drone_consortium.html
 <br/>
 <b style='color: rgb(51, 51, 51); font-family: Meiryo, Verdana, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "sans-serif"; font-size: 12.96px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'>※お知らせ 2026.11.17<br/>
       　産総研先進ドローン技術コンソーシアムのwebページのURLが変更になりました。<br/>
-　新URL　https://www.isri.aist.go.jp/ja/consortium/drone_consortium.html</b><br/>
+　新URL　<a href="https://www.isri.aist.go.jp/ja/consortium/drone_consortium.html">https://www.isri.aist.go.jp/ja/consortium/drone_consortium.html</a></b><br/>
 <h4>事業内容</h4>
       ※これらの事業は会費を納めて会員になっていただけますとすべて無料です。 <br/>
       ※事業内容等の詳細はコンソーシアム事務局へメールで資料をご請求ください。 <br/>
