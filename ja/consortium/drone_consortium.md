@@ -13,9 +13,8 @@ permalink: /ja/consortium/drone_consortium.html
       情報提供、ワーキンググループ（WG）形成支援など、下記の事業を開催しております。<a href="{{ '/en/consortium/drone_consortium.html' | relative_url }}" target="_blank">English page is here.</a><br/>
 <br/>
 <br/>
-<b style='color: rgb(51, 51, 51); font-family: Meiryo, Verdana, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "sans-serif"; font-size: 12.96px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'>※お知らせ 2026.11.17<br/>
-      　産総研先進ドローン技術コンソーシアムのwebページのURLが変更になりました。<br/>
-　新URL　<a href="https://www.isri.aist.go.jp/ja/consortium/drone_consortium.html">https://www.isri.aist.go.jp/ja/consortium/drone_consortium.html</a></b><br/>
+<b style='color: rgb(51, 51, 51); font-family: Meiryo, Verdana, "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "ＭＳ Ｐゴシック", "sans-serif"; font-size: 12.96px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: left; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial;'>※お知らせ 2025.5.15<br/>
+      　2025年度内を目途にwebページのURLが変わる予定があります。詳細決まりましたらご案内いたします。</b><br/>
 <h4>事業内容</h4>
       ※これらの事業は会費を納めて会員になっていただけますとすべて無料です。 <br/>
       ※事業内容等の詳細はコンソーシアム事務局へメールで資料をご請求ください。 <br/>
@@ -119,7 +118,6 @@ permalink: /ja/consortium/drone_consortium.html
 <li>WG3　水素燃料ドローン用発電機ワーキンググループ</li>
 <li>WG4　高電圧ドローンワーキンググループ</li>
 <li><a href="{{ '/ja/consortium/drone/Membership_information_VTOLwg_WG5_20260618.pdf' | relative_url }}" target="_blank">WG5　VTOL無人機ワーキンググループ</a></li>
-<li>WG6　防災ドローンワーキンググループ</li>
 </ul>
 </td>
 </tr>

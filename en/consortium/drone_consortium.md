@@ -111,7 +111,6 @@ permalink: /en/consortium/drone_consortium.html
 <li>WG3: Power Generator for Hydrogen-Fueled Drones Working Group</li>
 <li>WG4: High-Voltage Drone Working Group</li>
 <li>WG5: VTOL Unmanned Aircraft Working Group</li>
-<li>WG6: Disaster Drone Working Group</li>
 </ul>
 </td>
 </tr>
