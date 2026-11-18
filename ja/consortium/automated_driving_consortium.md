@@ -52,6 +52,8 @@ permalink: /ja/consortium/automated_driving_consortium.html
 - 共同研究・実証を通じた**研究開発・事業創出**
 - 産学官連携による地域交通の維持・発展への貢献
 
+## 自動運転に関するご相談
 
+自動運転サービスの導入や実証に関するご相談は、[自動運転相談窓口]({{ '/ja/ad/' | relative_url }})をご利用ください。
 
 [コンソーシアム一覧に戻る]({{ '/ja/consortium/' | relative_url }})

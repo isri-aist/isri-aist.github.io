@@ -12,6 +12,7 @@ permalink: /ja/contact/
 <br/>
       なお、連携相談以外のお問い合わせについては以下からご連絡ください。</p>
 <ul>
+<li><a href="{{ '/ja/ad/' | relative_url }}">自動運転に関するご相談（自動運転相談窓口）</a></li>
 <li><a href="https://www.aist.go.jp/aist_j/inquiry/pr/index.html" target="_blank">広報関連のお問合せ先（プレス発表、取材等）</a></li>
 <li><a href="https://www.aist.go.jp/aist_j/inquiry/form/inquiry_form.html" target="_blank">その他産総研総合お問い合わせ窓口</a></li>
 </ul>
