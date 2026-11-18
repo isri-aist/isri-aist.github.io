@@ -60,6 +60,13 @@
 @media(max-width:600px){.content .organization-director{width:140px;max-width:42%;margin:3px 0 14px 15px}.content .organization-director figcaption strong{font-size:14px}.content .organization-director figcaption span{font-size:11px}}
 @media(max-width:360px){.content .organization-director{width:120px;max-width:44%;margin-left:12px}}
 
+/* ISRI homepage video hero; existing static image remains the fallback. */
+.hero{position:relative;isolation:isolate;overflow:hidden}
+.hero::before{content:"";position:absolute;inset:0;background:rgba(4,43,35,.78);z-index:1;pointer-events:none}
+.hero-video{position:absolute;inset:0;width:100%;height:100%;object-fit:cover;object-position:center;z-index:0;pointer-events:none}
+.hero-inner{position:relative;z-index:2}
+@media(prefers-reduced-motion:reduce){.hero-video{display:none}}
+
 /* Organization chart */
 .org-chart {
   --org-red: #d50032;
