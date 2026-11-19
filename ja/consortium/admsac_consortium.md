@@ -72,4 +72,4 @@ alt="バス停のデジタルサイネージに到着案内が表示され、自
           　　E-mail: <a href="mailto:M-admsac-office-ml@aist.go.jp">M-admsac-office-ml@aist.go.jp</a>
 </div>
 </div>
-</div>
+
