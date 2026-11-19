@@ -62,28 +62,60 @@
           >{% endif %}
         </div>
       </div>
-      <nav class="main-nav" aria-label="Main navigation">
+      <nav class="main-nav" aria-label="{% if page.lang == 'en' %}Main navigation{% else %}メインナビゲーション{% endif %}">
         <div class="nav-inner">
-          {% if page.lang == 'en' %}<a href="{{ '/en/' | relative_url }}"
-            >Home</a
-          ><a href="{{ '/en/organization/' | relative_url }}">About</a
-          ><a href="{{ '/en/groups/' | relative_url }}">Groups</a
-          ><a href="{{ '/en/member/' | relative_url }}">Members</a
-          ><a href="{{ '/en/consortium/' | relative_url }}">Consortium</a
-          ><a href="{{ '/en/recruit/' | relative_url }}">Job Opportunities</a
-          ><a href="{{ '/en/location/' | relative_url }}">Access</a
-          ><a href="{{ '/en/contact/' | relative_url }}">Contact</a>{% else %}<a
-            href="{{ '/' | relative_url }}"
-            >ホーム</a
-          ><a href="{{ '/ja/organization/' | relative_url }}">研究部門紹介</a
-          ><a href="{{ '/ja/groups/' | relative_url }}">研究グループ</a
-          ><a href="{{ '/ja/member/' | relative_url }}">構成メンバー</a
-          ><a href="{{ '/ja/results/' | relative_url }}">研究成果</a
-          ><a href="{{ '/ja/consortium/' | relative_url }}">コンソーシアム</a
-          ><a href="{{ '/ja/recruit/' | relative_url }}">採用情報</a
-          ><a href="{{ '/ja/location/' | relative_url }}">アクセス</a
-          ><a href="{{ '/ja/contact/' | relative_url }}">お問合せ</a>{% endif
-          %}
+          {% if page.lang == 'en' %}
+          <a href="{{ '/en/' | relative_url }}">Home</a>
+          <details class="nav-group">
+            <summary>About</summary>
+            <div class="nav-dropdown">
+              <a href="{{ '/en/organization/' | relative_url }}">About the Institute</a>
+              <a href="{{ '/en/member/' | relative_url }}">Members</a>
+            </div>
+          </details>
+          <details class="nav-group">
+            <summary>Research</summary>
+            <div class="nav-dropdown">
+              <a href="{{ '/en/groups/' | relative_url }}">Research Groups</a>
+              <a href="{{ '/en/results/' | relative_url }}">Research Results</a>
+            </div>
+          </details>
+          <a href="{{ '/en/consortium/' | relative_url }}">Consortium</a>
+          <a href="{{ '/en/recruit/' | relative_url }}">Careers</a>
+          <details class="nav-group">
+            <summary>Contact</summary>
+            <div class="nav-dropdown">
+              <a href="{{ '/en/contact/' | relative_url }}">Contact Us</a>
+              <a href="{{ '/en/location/' | relative_url }}">Access</a>
+            </div>
+          </details>
+          {% else %}
+          <a href="{{ '/' | relative_url }}">ホーム</a>
+          <details class="nav-group">
+            <summary>研究部門紹介</summary>
+            <div class="nav-dropdown">
+              <a href="{{ '/ja/organization/' | relative_url }}">研究部門紹介</a>
+              <a href="{{ '/ja/member/' | relative_url }}">構成メンバー</a>
+            </div>
+          </details>
+          <details class="nav-group">
+            <summary>研究活動</summary>
+            <div class="nav-dropdown">
+              <a href="{{ '/ja/groups/' | relative_url }}">研究グループ</a>
+              <a href="{{ '/ja/results/' | relative_url }}">研究成果</a>
+            </div>
+          </details>
+          <a href="{{ '/ja/consortium/' | relative_url }}">コンソーシアム</a>
+          <a href="{{ '/ja/recruit/' | relative_url }}">採用情報</a>
+          <details class="nav-group">
+            <summary>お問い合わせ</summary>
+            <div class="nav-dropdown">
+              <a href="{{ '/ja/contact/' | relative_url }}">お問合せ</a>
+              <a href="{{ '/ja/location/' | relative_url }}">アクセス</a>
+              <a href="{{ '/ja/ad/' | relative_url }}">自動運転相談窓口</a>
+            </div>
+          </details>
+          {% endif %}
         </div>
       </nav>
     </header>
