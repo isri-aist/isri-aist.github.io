@@ -57,7 +57,7 @@ alt="バス停のデジタルサイネージに到着案内が表示され、自
 
 <h4>資料</h4>
 <ul>
-<li><a href="/ja/consortium/admsac/ADMSAC-info20261119.pdf">自動運転移動サービス社会実装コンソーシアム設置説明と入会募集資料</a>［PDF形式：1,270KB］</li>
+<li><a href="/ja/consortium/admsac/ADMSAC-info20261119.pdf">自動運転移動サービス社会実装コンソーシアム設置説明と入会募集資料</a>［PDF形式：1,272KB］</li>
 </ul>
 
 
