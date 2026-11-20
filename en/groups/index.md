@@ -111,7 +111,6 @@ permalink: /en/groups/
 </table>
 
 </div>
-</div>
 
 
 
@@ -260,7 +259,7 @@ permalink: /en/groups/
             </tr>
             <tr>
               <th align="right" valign="top" style="text-align : right;">Website:</th>
-              <td valign="top" align="left"></td>
+              <td valign="top" align="left"><a href="https://jrl.cnrs.fr/en/" target="_blank">https://jrl.cnrs.fr/en/</a></td>
             </tr>
           </tbody>
         </table>
@@ -360,4 +359,4 @@ permalink: /en/groups/
 </div>
 <br/>
 <br/>
-</div>
+
