@@ -30,7 +30,6 @@ permalink: /ja/groups/
           </tbody>
         </table>
 <br/>
-<br/>
 <font class="group_subheading">ロボットによる物品操作技術</font>
 <ul>
 <li class="group_li">教示なしで、ロボットが未知の部品をピッキング（取り出し）</li>
@@ -126,31 +125,7 @@ permalink: /ja/groups/
           </tbody>
         </table>
 
-          
-<table bgcolor="#fff4f8" border="0" cellpadding="3" cellspacing="0" width="100%">
-<tbody>
-<tr>
-<th align="right" height="2" style="text-align : right;" valign="top"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" valign="top" width="2"></td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top" width="90"><nobr>研究拠点：</nobr></th>
-<td align="left" valign="top">つくばセンター　中央事業所2群  |  <a href="{{ '/ja/member/#twrg' | relative_url }}" target="_self">メンバー</a></td>
-<td align="left" valign="top" width="2"> </td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top">HP：</th>
-<td align="left" valign="top"></td>
-<td align="left" valign="top"></td>
-</tr>
-<tr>
-<th align="right" height="2" style="text-align : right;" valign="top"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" height="2" valign="top" width="2"></td>
-</tr>
-</tbody>
-</table>
+  
 <br/>
 <font class="group_subheading">サービスロボット、産業用ロボットの安全に関する研究開発、試験法開発、標準化</font>
 <ul>
@@ -199,33 +174,27 @@ permalink: /ja/groups/
 </table>
 </div>
 <br/>
-<a id="smrg" name="smrg"></a><br/>
+<a id="smrg" name="smrg"></a>
 <div class="group_container">
 <h2>スマートモビリティ研究グループ</h2>
-<table bgcolor="#fff4f8" border="0" cellpadding="3" cellspacing="0" width="100%">
-<tbody>
-<tr>
-<th align="right" height="2" style="text-align : right;" valign="top"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" valign="top" width="2"></td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top" width="90"><nobr>研究拠点：</nobr></th>
-<td align="left" valign="top">つくばセンター　中央事業所2群  |  <a href="{{ '/ja/member/#smrg' | relative_url }}" target="_self">メンバー</a></td>
-<td align="left" valign="top" width="2"> </td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top">HP：</th>
-<td align="left" valign="top"></td>
-<td align="left" valign="top"></td>
-</tr>
-<tr>
-<th align="right" height="2" style="text-align : right;" valign="top"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" height="2" valign="top" width="2"></td>
-</tr>
-</tbody>
-</table>
+          <table border="0" width="100%" cellspacing="0" cellpadding="3" bgcolor="#fff4f8">
+          <tbody>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" width="90"><nobr>研究拠点：</nobr></th>
+              <td valign="top" align="left">つくばセンター　中央事業所2群</td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">メンバー：</th>
+              <td valign="top" align="left"><a href="{{ '/ja/member/#smrg' | relative_url }}" target="_self">メンバー</a></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">HP：</th>
+              <td valign="top" align="left"></td>
+            </tr>
+          </tbody>
+        </table>
+
+  
 <br/>
 <p>　スマートモビリティ研究グループでは、高齢者ら移動弱者とされる方々の日常的な近距離移動手段を確保するため、歩行者のいる空間を人と共存しながら走行する、パーソナルモビリティのスマート化技術を開発しています。安全で快適な運転サポートや自動運転を実現するソフトウェア開発のほか、センシング技術や機械学習などを用いたモビリティロボットの地図生成・自己位置認識・周辺環境認識・経路生成といった基盤的な研究も行っています。
         <br/>
@@ -247,33 +216,26 @@ permalink: /ja/groups/
 </ul>
 </div>
 <br/>
-<a id="jrl" name="jrl"></a><br/>
+<a id="jrl" name="jrl"></a>
 <div class="group_container">
 <h2>CNRS-産総研ロボット工学連携研究室</h2>
-<table bgcolor="#fff4f8" border="0" cellpadding="3" cellspacing="0" width="100%">
-<tbody>
-<tr>
-<th align="right" height="2" style="text-align : right;" valign="top"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" valign="top" width="2"></td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top" width="90"><nobr>研究拠点：</nobr></th>
-<td align="left" valign="top">つくばセンター　本部情報研究棟  |  <a href="{{ '/ja/member/#jrl' | relative_url }}" target="_self">メンバー</a></td>
-<td align="left" valign="top" width="2"> </td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top">HP：</th>
-<td align="left" valign="top"><a href="https://jrl.cnrs.fr/jp/" target="_blank">https://jrl.cnrs.fr/jp/</a></td>
-<td align="left" valign="top"></td>
-</tr>
-<tr>
-<th align="right" height="2" style="text-align : right;" valign="top"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" height="2" valign="top" width="2"></td>
-</tr>
-</tbody>
-</table>
+          <table border="0" width="100%" cellspacing="0" cellpadding="3" bgcolor="#fff4f8">
+          <tbody>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" width="90"><nobr>研究拠点：</nobr></th>
+              <td valign="top" align="left">つくばセンター　本部情報研究棟</td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">メンバー：</th>
+              <td valign="top" align="left"><a href="{{ '/ja/member/#jrl' | relative_url }}" target="_self">一覧</a></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">HP：</th>
+              <td valign="top" align="left"><a href="https://jrl.cnrs.fr/jp/" target="_blank">https://jrl.cnrs.fr/jp/</a></td>
+            </tr>
+          </tbody>
+        </table>
+ 
 <br/>
 <p>　CNRS-産総研ロボット工学連携研究室（JRL）は、産業技術総合研究所（産総研）とフランス国立科学研究センター（CNRS）によって設立された国際共同研究組織です。ヒューマノイドロボットをプラットフォームに、自律性向上を目指す研究を、日仏の研究者が連携して進めています。主な研究分野は、タスク・モーションプランニング、制御、知覚処理、人間・環境とのインタラクション、認知ロボティクスなどです。国際色豊かな研究環境で、EUプロジェクトなど多くの国際共同研究も行われています。本研究室は、産総研とCNRSの両機関から国際共同研究ラボ（IRL）として公式に認定されています。
         <br/>
@@ -299,33 +261,26 @@ permalink: /ja/groups/
 </ul>
 </div>
 <br/>
-<a id="mahsdc" name="mahsdc"></a><br/>
+<a id="mahsdc" name="mahsdc"></a>
 <div class="group_container">
 <h2>三菱電機-産総研 Human-Centric システムデザイン連携研究室</h2>
-<table bgcolor="#fff4f8" border="0" cellpadding="3" cellspacing="0" width="100%">
-<tbody>
-<tr>
-<th align="right" height="2" style="text-align : right;" valign="top"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" valign="top" width="2"></td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top" width="90"><nobr>研究拠点：</nobr></th>
-<td align="left" valign="top">臨海副都心センター  |  <a href="{{ '/ja/member/#mahsdc' | relative_url }}" target="_self">メンバー</a></td>
-<td align="left" valign="top" width="2"> </td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top">HP：</th>
-<td align="left" valign="top"></td>
-<td align="left" valign="top"></td>
-</tr>
-<tr>
-<th align="right" height="2" style="text-align : right;" valign="top"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" height="2" valign="top" width="2"></td>
-</tr>
-</tbody>
-</table>
+          <table border="0" width="100%" cellspacing="0" cellpadding="3" bgcolor="#fff4f8">
+          <tbody>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" width="90"><nobr>研究拠点：</nobr></th>
+              <td valign="top" align="left">臨海副都心センター</td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">メンバー：</th>
+              <td valign="top" align="left"><a href="{{ '/ja/member/#mahsdc' | relative_url }}" target="_self">一覧</a></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">HP：</th>
+              <td valign="top" align="left"></td>
+            </tr>
+          </tbody>
+        </table>
+
 <br/>
 <font class="group_subheading">パーソナルwell-being社会に向けた⾰新技術と産業を繋ぐCPSを融合したシステムデザインへ</font> <br/>
 <br/>
