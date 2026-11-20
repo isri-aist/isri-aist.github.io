@@ -12,46 +12,35 @@ permalink: /en/groups/
 <a href="#smrg" target="_self">Smart Mobility RG</a> | <a href="#jrl" target="_self">CNRS-AIST JRL (Joint Robotics Laboratory), IRL3218</a> | <br/>
 <a href="#mahsdc" target="_self">Mitsubishi Electric-AIST Human-Centric System Design CRL</a> </font></p>
 <br/>
-<h2><a id="tirrg" name="tirrg"></a>Task-Intelligent Robotics Research Group </h2>
+
+          
 <div class="group_container">
-<table bgcolor="#fff4f8" border="0" cellpadding="2" cellspacing="0" width="100%">
-<tbody>
-<tr>
-<th align="left" height="2" valign="top" width="250"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" height="2" valign="top" width="2"></td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top" width="18%"><i>Research site:</i></th>
-<td align="left" valign="top">AIST Tokyo Waterfront</td>
-<td align="left" valign="top" width="2"> </td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top"><i>HP:</i></th>
-<td align="left" valign="top"></td>
-<td align="left" valign="top" width="2"> </td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top"> </th>
-<td align="left" valign="top"><a href="{{ '/en/member/#tirrg' | relative_url }}" target="_self">member</a></td>
-<td align="left" valign="top"> </td>
-</tr>
-<tr>
-<th align="left" height="2" valign="top"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" height="2" valign="top" width="2"></td>
-</tr>
-</tbody>
-</table>
-<br/>
-<font class="group_subheading">Article handling technology by robots</font>
+<h2><a id="tirrg" name="tirrg"></a>Task-Intelligent Robotics Research Group </h2>
+       <table border="0" width="100%" cellspacing="0" cellpadding="2" bgcolor="#fff4f8">
+          <tbody>
+            <tr>
+              <th align="right" valign="top" width="18%" style="text-align : right;">Research site:</th>
+              <td valign="top" align="left">AIST Tokyo Waterfront</td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">Members:</th>
+              <td valign="top" align="left"><a href="{{ '/en/member/#tirrg' | relative_url }}" target="_self">View Members</a></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">Website:</th>
+              <td valign="top" align="left"></td>
+            </tr>
+          </tbody>
+        </table>
+
+<h4>Article handling technology by robots</h4>
 <ul>
 <li class="group_li">Picking unknown parts without teaching</li>
 <li class="group_li">Using AI and simulator it is possible to pick complex parts (e.g. tangled)</li>
 <li class="group_li">Applicable to parts supply in factories and automation of store's display
           work.</li>
 </ul>
-<font class="group_subheading">Technology for human's motion recognition</font>
+<h4>Technology for human's motion recognition</h4>
 <ul>
 <li class="group_li">Determine which object and how it is being manipulated using images</li>
 <li class="group_li">Applicable for the analysis of expert workers, robot motion planning, etc.</li>
@@ -73,52 +62,40 @@ permalink: /en/groups/
 </tr>
 </tbody>
 </table>
-<br/>
-</div>
-<br/>
-<br/>
-<h2><a id="frrg" name="frrg"></a>Field Robotics Research Group</h2>
+</div></div>
+
+
 <div class="group_container">
-<table bgcolor="#fff4f8" border="0" cellpadding="2" cellspacing="0" width="100%">
-<tbody>
-<tr>
-<th align="right" height="2" style="text-align : right;" valign="top" width="250"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" height="2" valign="top" width="2"></td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top" width="18%"><i>Research site:</i></th>
-<td align="left" valign="top">AIST Tsukuba Central 2</td>
-<td align="left" valign="top" width="2"></td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top"><i>HP:</i></th>
-<td align="left" valign="top"></td>
-<td align="left" valign="top" width="2"></td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top"> </th>
-<td align="left" valign="top"><a href="{{ '/en/member/#frrg' | relative_url }}" target="_self">member</a></td>
-<td align="left" valign="top"> </td>
-</tr>
-<tr>
-<th align="right" height="2" style="text-align : right;" valign="top"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" height="2" valign="top" width="2"></td>
-</tr>
-</tbody>
-</table>
-<br/>
-<font class="group_subheading">R &amp; D of field robotics for maintenance and management of social/industrial
-        infrastructure, and disaster response, including:</font>
+<h2><a id="frrg" name="frrg"></a>Field Robotics Research Group</h2>
+ <table border="0" width="100%" cellspacing="0" cellpadding="2" bgcolor="#fff4f8">
+          <tbody>
+            <tr>
+              <th align="right" valign="top" width="18%" style="text-align : right;">Research site:</th>
+              <td valign="top" align="left">AIST Tsukuba Central 2</td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">Members:</th>
+              <td valign="top" align="left"><a href="{{ '/en/member/#frrg' | relative_url }}" target="_self">View Members</a></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">Website:</th>
+              <td valign="top" align="left"></td>
+            </tr>
+          </tbody>
+        </table>
+
+
+
+<h4>R &amp; D of field robotics for maintenance and management of social/industrial
+        infrastructure, and disaster response, including:</h4>
 <ul>
 <li class="group_li">Access technologies using land-sea-air field robots</li>
 <li class="group_li">Ultra-compact hydraulic actuators to improve workability and motion performance
           of field robots</li>
 <li class="group_li">Intelligent field robot technologies using Edge AI and Cloud AI</li>
 </ul>
-<font class="group_subheading">R &amp; D of safety evaluation standards for unmanned aircraft, including:
-        </font>
+<h4>R &amp; D of safety evaluation standards for unmanned aircraft, including:
+</h4>
 <ul>
 <li class="group_li">Aircraft technical standards and control technical standards</li>
 </ul>
@@ -132,43 +109,36 @@ permalink: /en/groups/
 </tr>
 </tbody>
 </table>
-<br/>
-<br/>
+
 </div>
-<h2><a id="trrg" name="trrg"></a>Trustworthy Robotics Research Group</h2>
+</div>
+
+
+
+
 <div class="group_container">
-<table bgcolor="#fff4f8" border="0" cellpadding="2" cellspacing="0" width="100%">
-<tbody>
-<tr>
-<th align="right" height="2" style="text-align : right;" valign="top" width="250"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" height="2" valign="top" width="2"></td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top" width="18%"><i>Research site:</i></th>
-<td align="left" valign="top">AIST Tsukuba Central 2</td>
-<td align="left" valign="top" width="2"></td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top"><i>HP:</i></th>
-<td align="left" valign="top">-</td>
-<td align="left" valign="top" width="2"></td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top"> </th>
-<td align="left" valign="top"><a href="{{ '/en/member/#trrg' | relative_url }}" target="_self">member</a></td>
-<td align="left" valign="top"> </td>
-</tr>
-<tr>
-<th align="right" height="2" style="text-align : right;" valign="top"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" height="2" valign="top" width="2"></td>
-</tr>
-</tbody>
-</table>
-<br/>
-<font class="group_subheading">R&amp;D, standardization for safety of service robots, industrial robots,
-        and their testing methods</font>
+          <h2><a id="trrg" name="trrg"></a>Trustworthy Robotics Research Group</h2>
+ <table border="0" width="100%" cellspacing="0" cellpadding="2" bgcolor="#fff4f8">
+          <tbody>
+            <tr>
+              <th align="right" valign="top" width="18%" style="text-align : right;">Research site:</th>
+              <td valign="top" align="left">AIST Tsukuba Central 2</td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">Members:</th>
+              <td valign="top" align="left"><a href="{{ '/en/member/#trrg' | relative_url }}" target="_self">View Members</a></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">Website:</th>
+              <td valign="top" align="left"></td>
+            </tr>
+          </tbody>
+        </table>
+
+
+
+<h4>R&amp;D, standardization for safety of service robots, industrial robots,
+        and their testing methods</h4>
 <ul>
 <li class="group_li">Safety and effectiveness standards and testing methods for nursing care
           robots (AMED Project to Promote the Development and Introduction of Robotic
@@ -178,8 +148,8 @@ permalink: /en/groups/
 <li class="group_li">Evaluation and testing technologies for optical safety sensors, a flexible
           robot-exterior sensor, and human detection sensors </li>
 </ul>
-<font class="group_subheading">R&amp;D, standardization for safety and reliability of AI-based robots
-        </font>
+<h4>R&amp;D, standardization for safety and reliability of AI-based robots
+        </h4>
 <ul>
 <li class="group_li">AI quality and reliability standards to ensure robot safety </li>
 <li class="group_li">Safety evaluation platform for AI-equipped robots </li>
@@ -218,42 +188,32 @@ permalink: /en/groups/
 </tr>
 </tbody>
 </table>
-<br/>
-<br/>
+
 </div>
-<br/>
-<h2><a id="smrg" name="smrg"></a>Smart Mobility Research Group</h2>
+
+
+
+
 <div class="group_container">
-<table bgcolor="#fff4f8" border="0" cellpadding="2" cellspacing="0" width="100%">
-<tbody>
-<tr>
-<th align="left" height="2" valign="top" width="250"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" height="2" valign="top" width="2"></td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top" width="18%"><i>Research site:</i></th>
-<td align="left" valign="top">AIST Tsukuba Central 2</td>
-<td align="left" valign="top" width="2"> </td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top"><i>HP:</i></th>
-<td align="left" valign="top">-</td>
-<td align="left" valign="top" width="2"> </td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top"> </th>
-<td align="left" valign="top"><a href="{{ '/en/member/#smrg' | relative_url }}" target="_self">member</a></td>
-<td align="left" valign="top"> </td>
-</tr>
-<tr>
-<th align="left" height="2" valign="top"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" height="2" valign="top" width="2"></td>
-</tr>
-</tbody>
-</table>
-<br/>
+<h2><a id="smrg" name="smrg"></a>Smart Mobility Research Group</h2>
+
+<table border="0" width="100%" cellspacing="0" cellpadding="2" bgcolor="#fff4f8">
+          <tbody>
+            <tr>
+              <th align="right" valign="top" width="18%" style="text-align : right;">Research site:</th>
+              <td valign="top" align="left">AIST Tsukuba Central 2</td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">Members:</th>
+              <td valign="top" align="left"><a href="{{ '/en/member/#smrg' | relative_url }}" target="_self">View Members</a></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">Website:</th>
+              <td valign="top" align="left"></td>
+            </tr>
+          </tbody>
+        </table>
+
 <div class="group_p">The Smart Mobility Research Team is developing intelligent technologies
         for personal mobility that coexist with pedestrians and operate in shared
         spaces, in order to ensure short-distance transportation means for the
@@ -263,7 +223,7 @@ permalink: /en/groups/
         self-localization, environmental perception, and path planning, utilizing
         sensing technologies and machine learning.</div>
 <br/>
-<font class="group_subheading">SLAM/Mapping and Localization</font>
+<h4>SLAM/Mapping and Localization</h4>
 <ul>
 <li>Novel method for high-precision, real-time LiDAR mapping</li>
 <li>3D interactive SLAM system that improves mapping accuracy with minimal
@@ -274,47 +234,39 @@ permalink: /en/groups/
 <li>4D Attention: A gaze-based mapping technique for dynamic scenes</li>
 <li>C*: Robust monocular visual localization using prebuilt 3D maps </li>
 </ul>
-<font class="group_subheading">Navigation and Mobility</font>
+<h4>Navigation and Mobility</h4>
 <ul>
 <li>A new method and dataset for pedestrian detection in walking spaces</li>
 <li>SeqSLAM++ for robust self-localization and navigation in outdoor environments</li>
 </ul>
-<br/>
+
 </div>
-<br/>
-<h2><a id="jrl" name="jrl"></a>CNRS-AIST JRL (Joint Robotics Laboratory), IRL3218</h2>
+
+
+
+
 <div class="group_container">
-<table bgcolor="#fff4f8" border="0" cellpadding="2" cellspacing="0" width="100%">
-<tbody>
-<tr>
-<th align="left" height="2" valign="top" width="250"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" height="2" valign="top" width="2"></td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top" width="18%"><i>Research site:</i></th>
-<td align="left" valign="top">AIST Tsukuba Headquarters and Information Technology Collaborative Research
+<h2><a id="jrl" name="jrl"></a>CNRS-AIST JRL (Joint Robotics Laboratory), IRL3218</h2>
+<table border="0" width="100%" cellspacing="0" cellpadding="2" bgcolor="#fff4f8">
+          <tbody>
+            <tr>
+              <th align="right" valign="top" width="18%" style="text-align : right;">Research site:</th>
+              <td valign="top" align="left">AIST Tsukuba Headquarters and Information Technology Collaborative Research
               Center</td>
-<td align="left" valign="top" width="2"> </td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top"><i>HP:</i></th>
-<td align="left" valign="top"><a href="https://jrl.cnrs.fr/en/" target="_blank">https://jrl.cnrs.fr/en/</a></td>
-<td align="left" valign="top" width="2"> </td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top"> </th>
-<td align="left" valign="top"><a href="{{ '/en/member/#jrl' | relative_url }}" target="_self">member</a></td>
-<td align="left" valign="top"> </td>
-</tr>
-<tr>
-<th align="left" height="2" valign="top"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" height="2" valign="top" width="2"></td>
-</tr>
-</tbody>
-</table>
-<br/>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">Members:</th>
+              <td valign="top" align="left"><a href="{{ '/en/member/#jrl' | relative_url }}" target="_self">View Members</a></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">Website:</th>
+              <td valign="top" align="left"></td>
+            </tr>
+          </tbody>
+        </table>
+
+
+
 <div class="group_p">The CNRS-AIST Joint Robotics Laboratory (JRL) is an international collaborative
         research organization established by the National Institute of Advanced
         Industrial Science and Technology (AIST) of Japan and the French National
@@ -327,7 +279,7 @@ permalink: /en/groups/
         the European Union. JRL is officially recognized as an International Research
         Laboratory (IRL) by both AIST and CNRS. </div>
 <br/>
-<font class="group_subheading">Behavior Generation and Autonomy Based on Intelligence and Learning</font><br/>
+<h4>Behavior Generation and Autonomy Based on Intelligence and Learning</h4>
 <ul>
 <li><b>Ant’noid</b>: A memory-efficient spatial navigation method for humanoid robots</li>
 <li>Development of a robot foundation model for real-world robotic behavior
@@ -339,7 +291,7 @@ permalink: /en/groups/
 <li><b>Z</b>: Enhancing robot exploration via large-scale learning models for 3D learning,
           high-level object recognition, and visual servoing </li>
 </ul>
-<font class="group_subheading">Advanced Technologies for Robot Control, Motion Generation, and Embodiment</font><br/>
+<h4>Advanced Technologies for Robot Control, Motion Generation, and Embodiment</h4>
 <ul>
 <li><b>CALL</b>: A robot control method for dynamic object handover, integrating human
           biomechanics and visual perception</li>
@@ -352,43 +304,28 @@ permalink: /en/groups/
 <li><b>Friends</b>: Collaborative research on humanoid robots for aircraft manufacturing
           </li>
 </ul>
-<br/>
 </div>
-<br/>
-<br/>
+<div class="group_container">
 <h2><a id="mahsdc" name="mahsdc"></a>Mitsubishi Electric-AIST Human-Centric System Design Cooperative Research
       Laboratory</h2>
-<div class="group_container">
-<table bgcolor="#fff4f8" border="0" cellpadding="2" cellspacing="0" width="100%">
-<tbody>
-<tr>
-<th align="left" height="2" valign="top" width="250"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" height="2" valign="top" width="2"></td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top" width="18%"><i>Research site:</i></th>
-<td align="left" valign="top">AIST Tokyo Waterfront</td>
-<td align="left" valign="top" width="2"> </td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top"><i>HP:</i></th>
-<td align="left" valign="top">-</td>
-<td align="left" valign="top" width="2"> </td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top"> </th>
-<td align="left" valign="top"><a href="{{ '/en/member/#mahsdc' | relative_url }}" target="_self">member</a></td>
-<td align="left" valign="top"> </td>
-</tr>
-<tr>
-<th align="left" height="2" valign="top"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" height="2" valign="top" width="2"></td>
-</tr>
-</tbody>
-</table>
-<br/>
+<table border="0" width="100%" cellspacing="0" cellpadding="2" bgcolor="#fff4f8">
+          <tbody>
+            <tr>
+              <th align="right" valign="top" width="18%" style="text-align : right;">Research site:</th>
+              <td valign="top" align="left">AIST Tokyo Waterfront</td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">Members:</th>
+              <td valign="top" align="left"><a href="{{ '/en/member/#mahsdc' | relative_url }}" target="_self">View Members</a></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">Website:</th>
+              <td valign="top" align="left"></td>
+            </tr>
+          </tbody>
+        </table>
+
+
 <div class="group_p">As a countermeasure for the declining working-age population due to the
         falling birthrate and aging population, all industrial sectors, including
         manufacturing, are required to improve the Quality of Working (QoW) and
