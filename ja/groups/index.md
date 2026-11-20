@@ -16,25 +16,19 @@ permalink: /ja/groups/
 <table bgcolor="#fff4f8" border="0" cellpadding="3" cellspacing="0" width="100%">
 <tbody>
 <tr>
-<th align="right" height="2" style="text-align : right;" valign="top"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" valign="top" width="2"></td>
-</tr>
+
 <tr>
-<th align="right" style="text-align : right;" valign="top" width="90"><nobr>研究拠点：</nobr></th>
-<td align="left" valign="top">臨海副都心センター  |  <a href="{{ '/ja/member/#tirrg' | relative_url }}" target="_self">メンバー</a></td>
-<td align="left" valign="top" width="2"> </td>
+<th align="right" style="text-align : right;" valign="top"><nobr>研究拠点：</nobr></th>
+<td align="left" valign="top">臨海副都心センター</td>
+
 </tr>
+<tr><th>メンバー：</th><td><a href="{{ '/ja/member/#tirrg' | relative_url }}" target="_self">一覧</a></td></tr>
 <tr>
 <th align="right" style="text-align : right;" valign="top">HP：</th>
 <td align="left" valign="top"></td>
-<td align="left" valign="top"></td>
+
 </tr>
-<tr>
-<th align="right" height="2" style="text-align : right;" valign="top"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" height="2" valign="top" width="2"></td>
-</tr>
+
 </tbody>
 </table>
 <br/>
