@@ -66,30 +66,23 @@ permalink: /ja/groups/
 <div class="group_container">
 <a id="frrg" name="frrg"></a>
 <h2>フィールドロボティクス研究グループ </h2>
-<table bgcolor="#fff4f8" border="0" cellpadding="3" cellspacing="0" width="100%">
-<tbody>
-<tr>
-<th align="right" height="2" style="text-align : right;" valign="top"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" valign="top" width="2"></td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top" width="90"><nobr>研究拠点：</nobr></th>
-<td align="left" valign="top">つくばセンター　中央事業所2群  |  <a href="{{ '/ja/member/#frrg' | relative_url }}" target="_self">メンバー</a></td>
-<td align="left" valign="top" width="2"> </td>
-</tr>
-<tr>
-<th align="right" style="text-align : right;" valign="top">HP：</th>
-<td align="left" valign="top"></td>
-<td align="left" valign="top"></td>
-</tr>
-<tr>
-<th align="right" height="2" style="text-align : right;" valign="top"></th>
-<td align="left" height="2" valign="top"></td>
-<td align="left" height="2" valign="top" width="2"></td>
-</tr>
-</tbody>
-</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="3" bgcolor="#fff4f8">
+          <tbody>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" width="90"><nobr>研究拠点：</nobr></th>
+              <td valign="top" align="left">つくばセンター　中央事業所2群</td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">メンバー：</th>
+              <td valign="top" align="left"><a href="{{ '/ja/member/#frrg' | relative_url }}" target="_self">一覧</a></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">HP：</th>
+              <td valign="top" align="left"></td>
+            </tr>
+          </tbody>
+        </table>
+ 
 <br/>
 <font class="group_subheading">社会／産業インフラの維持・管理、災害対応などに向けたフィールドロボティクスに関する研究開発</font>
 <ul>
@@ -116,6 +109,24 @@ permalink: /ja/groups/
 <div class="group_container">
 <a id="twrg" name="twrg"></a>
 <h2>信頼ロボティクス研究グループ</h2>
+<table border="0" width="100%" cellspacing="0" cellpadding="3" bgcolor="#fff4f8">
+          <tbody>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;" width="90"><nobr>研究拠点：</nobr></th>
+              <td valign="top" align="left">つくばセンター　中央事業所2群</td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">メンバー：</th>
+              <td valign="top" align="left"><a href="{{ '/ja/member/#twrg' | relative_url }}" target="_self">一覧</a></td>
+            </tr>
+            <tr>
+              <th align="right" valign="top" style="text-align : right;">HP：</th>
+              <td valign="top" align="left"></td>
+            </tr>
+          </tbody>
+        </table>
+
+          
 <table bgcolor="#fff4f8" border="0" cellpadding="3" cellspacing="0" width="100%">
 <tbody>
 <tr>
