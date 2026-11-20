@@ -30,13 +30,13 @@ permalink: /ja/groups/
           </tbody>
         </table>
 <br/>
-<font class="group_subheading">ロボットによる物品操作技術</font>
+<h4>ロボットによる物品操作技術</h4>
 <ul>
 <li class="group_li">教示なしで、ロボットが未知の部品をピッキング（取り出し）</li>
 <li class="group_li">絡み合うような複雑な部品を、AI・シミュレータでピッキング可能に</li>
 <li class="group_li">工場での部品供給や店舗の陳列作業の自動化に応用可能</li>
 </ul>
-<font class="group_subheading">人の作業の認識技術</font>
+<h4>人の作業の認識技術</h4>
 <ul>
 <li class="group_li">人がどんな物体を持ち、どう操作しているかを、画像やセンサグローブから判定</li>
 <li class="group_li">熟練者の作業分析や、ロボットの行動計画に応用可能</li>
@@ -173,7 +173,7 @@ permalink: /ja/groups/
 </tbody>
 </table>
 </div>
-<br/>
+
 <a id="smrg" name="smrg"></a>
 <div class="group_container">
 <h2>スマートモビリティ研究グループ</h2>
@@ -185,7 +185,7 @@ permalink: /ja/groups/
             </tr>
             <tr>
               <th align="right" valign="top" style="text-align : right;">メンバー：</th>
-              <td valign="top" align="left"><a href="{{ '/ja/member/#smrg' | relative_url }}" target="_self">メンバー</a></td>
+              <td valign="top" align="left"><a href="{{ '/ja/member/#smrg' | relative_url }}" target="_self">一覧</a></td>
             </tr>
             <tr>
               <th align="right" valign="top" style="text-align : right;">HP：</th>
@@ -215,7 +215,6 @@ permalink: /ja/groups/
 <li class="group_li">屋外環境でのロバストな自己位置推定とナビゲーションのためのSeqSLAM++</li>
 </ul>
 </div>
-<br/>
 <a id="jrl" name="jrl"></a>
 <div class="group_container">
 <h2>CNRS-産総研ロボット工学連携研究室</h2>
@@ -260,7 +259,7 @@ permalink: /ja/groups/
 <li class="group_li">SIGRoLe: 大規模言語モデルと命題論理に基づく意図推論による汎用共有自律フレームワークの提案</li>
 </ul>
 </div>
-<br/>
+
 <a id="mahsdc" name="mahsdc"></a>
 <div class="group_container">
 <h2>三菱電機-産総研 Human-Centric システムデザイン連携研究室</h2>
