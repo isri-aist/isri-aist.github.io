@@ -27,7 +27,7 @@ permalink: /ja/location/
 </tr>
 </tbody>
 </table>
-<img alt="→" border="0" src="{{ '/ja/common/img/allaw_m_gray.png' | relative_url }}"/><a href="https://www.aist.go.jp/tsukuba/" target="_blank">つくばセンター</a>、<a href="https://www.aist.go.jp/aist_j/guidemap/tsukuba/tsukuba_map_main.html" target="_blank">交通案内</a>、<a href="https://www.aist.go.jp/aist_j/guidemap/tsukuba/tsukuba_map_main.html" target="_blank">入構手続き案内</a><br/>
+<img alt="→" border="0" src="{{ '/ja/common/img/allaw_m_gray.png' | relative_url }}"/><b>アクセス：</b><a href="https://www.aist.go.jp/tsukuba/" target="_blank">つくばセンター</a>、<a href="https://www.aist.go.jp/aist_j/guidemap/tsukuba/tsukuba_map_main.html" target="_blank">交通案内</a>、<a href="https://www.aist.go.jp/aist_j/guidemap/tsukuba/tsukuba_map_main.html" target="_blank">入構手続き案内</a><br/>
 <br/>
 <br/>
 <br/>
@@ -61,7 +61,7 @@ permalink: /ja/location/
 </tr>
 </tbody>
 </table>
-<img alt="→" border="0" src="{{ '/ja/common/img/allaw_m_gray.png' | relative_url }}"/><a href="https://www.aist.go.jp/waterfront/ja/outline/" target="_blank">臨海副都心センター</a>、<a href="https://www.aist.go.jp/aist_j/guidemap/tokyo_waterfront/tokyo_waterfront_map_main.html" target="_blank">交通案内</a>、<a href="https://www.aist.go.jp/waterfront/ja/access/index.html#procedure" target="_blank">入構手続き案内</a><br/>
+<img alt="→" border="0" src="{{ '/ja/common/img/allaw_m_gray.png' | relative_url }}"/><b>アクセス：</b><a href="https://www.aist.go.jp/waterfront/ja/outline/" target="_blank">臨海副都心センター</a>、<a href="https://www.aist.go.jp/aist_j/guidemap/tokyo_waterfront/tokyo_waterfront_map_main.html" target="_blank">交通案内</a>、<a href="https://www.aist.go.jp/waterfront/ja/access/index.html#procedure" target="_blank">入構手続き案内</a><br/>
 <br/>
 <br/>
 <br/>
