@@ -12,12 +12,9 @@ permalink: /ja/recruit/test_gaoenba0547ad-001/
 
 <h2>契約職員募集要項</h2>
         <ul>
-        <li>職員区分について：<a href="https://www.aist.go.jp/aist_j/humanres/04keiyaku/index.html" target="_blank">産総研：契約職員募集</a></li>
-        <li><b>履歴書</b>（参考様式）[<a href="https://www.aist.go.jp/Portals/0/resource_images/aist_j/humanres/04keiyaku/rirekisyo.xlsx">Excel</a>]（市販の様式でも可能です。）</li>
-        <li>特定類型該当性に関する<b>申告書</b> [<a href="https://www.aist.go.jp/Portals/0/resource_images/aist_j/humanres/04keiyaku/sinkokusyo.pdf" target="_blank">PDF</a>]（依頼状 [<a href="https://www.aist.go.jp/Portals/0/resource_images/aist_j/humanres/04keiyaku/sinkokusyo_2.pdf" target="_blank">PDF</a>] を確認いただき、PDFを提出ください。）</li>
-      </ul>
-<br/><br/>
-<h4>2027年度募集　※勤務地：つくば</h4>
+        <li>職員区分について：<a href="https://www.aist.go.jp/aist_j/humanres/04keiyaku/index.html" target="_blank">産総研：契約職員募集</a></li></ul>
+
+  <br><br>
   <table border="1" cellspacing="0" cellpadding="2">
   <tbody>
     <tr>
@@ -105,8 +102,8 @@ permalink: /ja/recruit/test_gaoenba0547ad-001/
     <tr>
       <th>提出書類</th>
       <td>
-        履歴書</b>（参考様式）[<a href="https://www.aist.go.jp/Portals/0/resource_images/aist_j/humanres/04keiyaku/rirekisyo.xlsx">Excel</a>]<br>
-        申告書（参考：特定類型該当性に関する申告書提出のお願い）<br>
+        履歴書（参考様式）[<a href="https://www.aist.go.jp/Portals/0/resource_images/aist_j/humanres/04keiyaku/rirekisyo.xlsx">Excel</a>]<br>
+        申告書 [<a href="https://www.aist.go.jp/Portals/0/resource_images/aist_j/humanres/04keiyaku/sinkokusyo.pdf" target="_blank">PDF</a>]（参考：特定類型該当性に関する申告書提出のお願い）<br>
         これまでの業務経験（書式自由）
       </td>
     </tr>
