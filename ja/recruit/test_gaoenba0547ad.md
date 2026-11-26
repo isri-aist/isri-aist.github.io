@@ -23,7 +23,7 @@ permalink: /ja/recruit/test_gaoenba0547ad/
       </ul>
 <br/><br/>
 <h4>2027年度募集　※勤務地：つくば</h4>
-   <table>
+   <table class="listTable>
         <tbody>
           <tr>
             <th width="15%">公募番号<br/>掲載日</th>
@@ -50,7 +50,7 @@ permalink: /ja/recruit/test_gaoenba0547ad/
 
 <br/><br/>
 <h4>2027年度募集　※勤務地：臨海副都心センター</h4>
- <table>
+ <table class="listTable>
         <tbody>
           <tr>
             <th width="15%">公募番号<br/>掲載日</th>
