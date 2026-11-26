@@ -13,8 +13,8 @@ permalink: /ja/recruit/test_gaoenba0547ad-001/
 <table class="listTable">
   <tbody>
     <tr>
-      <th>部門名</th>
-      <td>*************研究部門</td>
+      <th width="10%">部門名</th>
+      <td width="90%">*************研究部門</td>
     </tr>
     <tr>
       <th>研究グループ等</th>
