@@ -8,7 +8,7 @@ permalink: /ja/recruit/test_gaoenba0547ad-001/
 
 <h1>契約職員募集要項</h1>
 <div class="mainContents">
-<a href="./#02">契約職員募集一覧に戻る</a>
+<a href="/ja/recruit/#02">契約職員募集一覧に戻る</a>
 <h4>公募番号：0000-0000（掲載日：2026/00/00）</h4>
 <table class="listTable">
   <tbody>
