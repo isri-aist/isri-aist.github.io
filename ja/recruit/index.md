@@ -14,7 +14,7 @@ permalink: /ja/recruit/
 <img align="middle" border="0" src="{{ '/ja/common/img/allaw_m_gray.png' | relative_url }}" style="border-top-border-left-border-right-border-bottom-"/><a href="https://www.aist.go.jp/aist_j/humanres/02kenkyu/index.html" target="_blank">産総研：研究職員募集</a></p>
 <ul class="listArrow">
 </ul>
-<br/>
+<br/><a id="02" name="02"></a><br />
 <h2>契約職員</h2>
 <p>ポスドク（一号、産総研特別研究員）、テクニカルスタッフ（二号、研究補助）、クレリカルスタッフ（三号、事務補助）、産総研リサーチアシスタント（RA）等の契約職員（有期雇用）募集情報は、以下のページをご覧ください。<br/>
 <img align="middle" border="0" src="{{ '/ja/common/img/allaw_m_gray.png' | relative_url }}" style="border-top-border-left-border-right-border-bottom-"/><a href="https://www.aist.go.jp/aist_j/humanres/04keiyaku/index.html" target="_blank">産総研：契約職員募集</a></p>
