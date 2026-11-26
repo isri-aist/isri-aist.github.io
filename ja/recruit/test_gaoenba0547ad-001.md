@@ -8,7 +8,7 @@ permalink: /ja/recruit/test_gaoenba0547ad-001/
 
 <h1>契約職員募集要項</h1>
 <div class="mainContents">
-<p> <a href="./#02">契約職員募集一覧に戻る</a></p>
+<a href="./#02">契約職員募集一覧に戻る</a>
 <h4>公募番号：0000-0000（掲載日：2026/00/00）</h4>
 <table class="listTable">
   <tbody>
@@ -104,7 +104,7 @@ permalink: /ja/recruit/test_gaoenba0547ad-001/
     </tr>
     <tr>
       <th><del>応募締切ただし書き</del></th>
-      <td><del>適任者決定次第〆切~~</td>
+      <td><del>適任者決定次第〆切</del></td>
     </tr>
     <tr>
       <th>選考方法</th>
