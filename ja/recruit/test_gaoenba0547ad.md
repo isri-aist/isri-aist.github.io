@@ -2,7 +2,7 @@
 layout: default
 title: 人材募集
 lang: ja
-permalink: /ja/recruit/
+permalink: /ja/recruit/test_gaoenba0547ad/
 ---
 
 
