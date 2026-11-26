@@ -1,12 +1,12 @@
 ---
 layout: default
-title: 契約職員募集要項
+title: 採用情報
 lang: ja
 permalink: /ja/recruit/test_gaoenba0547ad-001/
 ---
 
 
-<h1>人材募集</h1>
+<h1>採用情報</h1>
 <div class="mainContents">
 <p>契約職員募集一覧に戻る</p>
 
