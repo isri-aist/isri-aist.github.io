@@ -6,14 +6,10 @@ permalink: /ja/recruit/test_gaoenba0547ad-001/
 ---
 
 
-<h1>契約職員募集</h1>
+<h1>契約職員募集要項</h1>
 <div class="mainContents">
 <p><a href="/ja/recruit" target="_self">契約職員募集一覧に戻る</a></p>
-
-<h2>契約職員募集要項</h2>
-  
-  <br>
-  <h4>公募番号：0000-0000（掲載日：2026/00/00） </h4>
+<h4>公募番号：0000-0000（掲載日：2026/00/00） </h4>
   
   <table class="listTable">
   <tbody>
@@ -108,8 +104,8 @@ permalink: /ja/recruit/test_gaoenba0547ad-001/
       <td>2026年06月17日 適任者決定次第〆切</td>
     </tr>
     <tr>
-      <th>応募締切ただし書き</th>
-      <td>適任者決定次第〆切</td>
+      <th><del>応募締切ただし書き</del></th>
+      <td><del>適任者決定次第〆切~~</td>
     </tr>
     <tr>
       <th>選考方法</th>
@@ -121,11 +117,11 @@ permalink: /ja/recruit/test_gaoenba0547ad-001/
     </tr>
     <tr>
       <th>問い合わせ先</th>
-      <td>○○研究グループ E-Mail：********@aist.go.jp</td>
+      <td>○○研究グループ E-Mail：AAAAAA*aist.go.jp（*を@に変更して送信してください。）</td>
     </tr>
     <tr>
       <th>応募先</th>
-      <td>E-Mail：***********@aist.go.jp</td>
+      <td>E-Mail：AAAAAA*aist.go.jp（*を@に変更して送信してください。）</td>
     </tr>
     <tr>
       <th>応募方法</th>
