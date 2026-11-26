@@ -26,10 +26,10 @@ permalink: /ja/recruit/test_gaoenba0547ad/
 <table class="listTable">
 <tbody>
 <tr>
-<th>公募番号、掲載日</th>
-<th>募集グループ</th>
-<th>職員区分</th>
-        <th>研究内容または業務内容</th>
+<th width="20%">公募番号、掲載日</th>
+<th width="20%">募集グループ</th>
+<th width="20%">職員区分</th>
+<th width="40%">研究内容または業務内容</th>
 </tr>
 <tr>
 <td>
@@ -37,7 +37,7 @@ permalink: /ja/recruit/test_gaoenba0547ad/
 <span style="font-size : 60%;">2026/00/00</span></td>
 <td>***********研究グループ</td>
 <td>二号</td>
-        <td>〇〇に関する研究</td>
+        <td>〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇〇に関する研究</td>
 </tr>
 
 
