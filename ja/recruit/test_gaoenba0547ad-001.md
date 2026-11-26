@@ -14,13 +14,11 @@ permalink: /ja/recruit/test_gaoenba0547ad-001/
         <ul>
         <li>職員区分について：<a href="https://www.aist.go.jp/aist_j/humanres/04keiyaku/index.html" target="_blank">産総研：契約職員募集</a></li></ul>
 
-  <br><br>
-  <table border="1" cellspacing="0" cellpadding="2">
+  <br>
+  <h4>公募番号：0000-0000（掲載日：2026/00/00） </h4>
+  
+  <table class="listTable">
   <tbody>
-    <tr>
-      <th>公募no.</th>
-            <th></th>
-          </tr>
     <tr>
       <th>部門名</th>
       <td>*************研究部門</td>
@@ -151,9 +149,4 @@ permalink: /ja/recruit/test_gaoenba0547ad-001/
   </tbody>
 </table>
 
-
-<br/><br/>
-
-
-<br/>
 </div>
