@@ -95,7 +95,7 @@ permalink: /ja/recruit/test_gaoenba0547ad-001/
       <th>提出書類</th>
       <td>
         履歴書（参考様式）[<a href="https://www.aist.go.jp/Portals/0/resource_images/aist_j/humanres/04keiyaku/rirekisyo.xlsx">Excel</a>]<br>
-        申告書 [<a href="https://www.aist.go.jp/Portals/0/resource_images/aist_j/humanres/04keiyaku/sinkokusyo.pdf" target="_blank">PDF</a>]（参考：特定類型該当性に関する申告書提出のお願い）<br>
+        申告書 [<a href="https://www.aist.go.jp/Portals/0/resource_images/aist_j/humanres/04keiyaku/sinkokusyo.pdf" target="_blank">PDF</a>]（参考：<a href="https://www.aist.go.jp/Portals/0/resource_images/aist_j/humanres/04keiyaku/sinkokusyo_2.pdf" target="_blank">特定類型該当性に関する申告書提出のお願い</a>）<br>
         これまでの業務経験（書式自由）
       </td>
     </tr>
